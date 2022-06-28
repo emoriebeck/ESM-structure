@@ -1,0 +1,33 @@
+---
+title: "IRT prereg"
+author: "Josh Jackson"
+date: "3/10/2022"
+output: html_document
+---
+
+Bayesian IRT
+
+  To investigate how people use items similarity or differently, we will use conduct a series of  IRT models  on selected individuals. The goal of these analyses are to see how items perform different across people, asking the questions of whether 1) some item are useful for some people but not for others in regards to the same latent factor and 2) whether items can be used effectively for differently people for different latent factors. The combination of these analyses can tell us whether items can generalize across people and or across factors. 
+  
+  
+Models will be fit with {brms}, a bayesian multi-level package that is suitable for fitting IRT models (Bürkner, 2020a). We will fit graded response models, where the initial model will allow thresholds to differ, as well as discriminations to differ across items.
+
+```{r}
+IRT <- brm(bf(
+ resp|thres(gr = item) ~ 1 + (1 |i| item) + (1 | time),
+disc ~ 1 + (1 |i| item)
+), 
+family = brmsfamily("cumulative", "logit"), 
+prior = prior,
+data = data)
+```
+
+This broader model will be evaluated against simpler models that do not make the assumption of different thresholds or different discriminations. Once a general model is found to work for the sample, we will run a series of differential item tests. By comparing the posterior distributions of the model with the posterior predictive, we can detect item- or person-specific model misfit (Bürkner, 2020b). In doing so we will explore 4 different comparisons 
+
+First, we will examine participants who have EGA results that suggest there within person factor structure is `close to the Big Five` structure. Within this subset of individuals we will ask whether all items correspond to the specified latent trait. These comparisons will be made through investigations of item information curves. Those items that contribute limited information will have item information credible intervals that include 0. If misfit is found, this would suggest that some items are inappropriate markers of the Big Five for some individuals. Conversely, if misfit is not found, this would suggest that items work for identifying within person latent factors of the Big Five. 
+
+Second, we will examine participants who, according ot the EGA results, do not have a factor that corresponds to the Big Five. We will fit the IRT models to the big five data to examine their fit for the Big Five. If misfit is found, this would suggest that some items are inappropriate within-person markers of the Big Five. 
+
+Third, we will identify people who have latent factors that are similar to each other, but are not conceptualized as a Big Five variable. We will examine whether their items behave similarly. If adequate fit is found, this would suggest that items can be used for different latent variables than initially intended. 
+
+Fourth, we will compare people who have conceptually different within person latent factors but share at least one item as identified by the EGA. If adequate fit is found, this would suggest that items can be used for different latent variables than initially intended. 

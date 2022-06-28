@@ -1,0 +1,418 @@
+---
+title: "ESM Personality Structure: Items Imputed"
+author: "Alexander P. Christensen"
+date: "5/31/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(EGAnet)
+library(igraph)
+library(NetworkToolbox)
+library(corrplot)
+library(knitr)
+library(kableExtra)
+```
+
+```{r data, echo = FALSE, eval = TRUE, message = NA, warning = NA}
+# Load data
+## Imputation
+### Directory
+DIR <- "./02-data/04-item-wide/02-imputed/02-participant-data/csv/"
+
+### Files
+FILES <- list.files(DIR)
+
+### Load
+imp_items <- matrix(NA, nrow = 0, ncol = 62)
+
+### Progress bar
+pb <- txtProgressBar(max = length(FILES), style = 3)
+
+for(i in 1:length(FILES)){
+  
+  # Items only
+  items <- read.csv(paste(DIR, FILES[i], sep = ""))[,-c(61:62)]
+  
+  # Remove rows will all NA
+  items <- items[-which(apply(items, 1, function(x){all(is.na(x))})),]
+  
+  # Add id and group for dynEGA
+  items <- cbind(
+    items,
+    rep(gsub(".csv", "", FILES[i]), nrow(items)), # id
+    rep(1, nrow(items)) # group
+  )
+  colnames(items)[61:62] <- c("ID", "Group")
+  
+  # Stack
+  imp_items <- rbind(imp_items, items)
+  
+  # Update progress bar
+  setTxtProgressBar(pb, i)
+  
+}
+
+# Close progress bar
+close(pb)
+
+# Convert to data frame
+imp_items <- as.data.frame(imp_items)
+
+```
+
+# Q1
+
+## Dynamic Exploratory Graph Analysis: Population
+### Traits
+```{r dynEGA_population, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+imp_ega_pop <- dynEGA(
+  data = imp_items,
+  n.embed = 4,
+  tau = 1, delta = 1,
+  level = "population",
+  id = ncol(imp_items) - 1, group = ncol(imp_items),
+  use.derivatives = 1,
+  model = "glasso", algorithm = "louvain",
+  corr = "pearson",
+  ncores = 6
+)
+
+plot(imp_ega_pop)
+```
+
+#Q2
+
+## Dynamic Exploratory Graph Analysis: Population
+### Facets
+#### Openness to Experience
+```{r dynEGA_openness, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+# Get openness items
+imp_open <- imp_items[,c(
+  grep("openness", colnames(imp_items)), 61, 62
+)]
+
+imp_ega_open <- dynEGA(
+  data = imp_open,
+  n.embed = 4,
+  tau = 1, delta = 1,
+  level = "population",
+  id = ncol(imp_open) - 1, group = ncol(imp_open),
+  use.derivatives = 1,
+  model = "glasso", algorithm = "louvain",
+  corr = "pearson",
+  ncores = 6
+)
+
+plot(imp_ega_open)
+```
+
+#### Conscientiousness
+```{r dynEGA_conscientiousness, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+# Get conscientiousness items
+imp_cons <- imp_items[,c(
+  grep("conscientiousness", colnames(imp_items)), 61, 62
+)]
+
+imp_ega_cons <- dynEGA(
+  data = imp_cons,
+  n.embed = 4,
+  tau = 1, delta = 1,
+  level = "population",
+  id = ncol(imp_cons) - 1, group = ncol(imp_cons),
+  use.derivatives = 1,
+  model = "glasso", algorithm = "louvain",
+  corr = "pearson",
+  ncores = 6
+)
+
+plot(imp_ega_cons)
+```
+
+#### Extraversion
+
+```{r dynEGA_extraversion, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+# Get extraversion items
+imp_extr <- imp_items[,c(
+  grep("extraversion", colnames(imp_items)), 61, 62
+)]
+
+imp_ega_extr <- dynEGA(
+  data = imp_extr,
+  n.embed = 4,
+  tau = 1, delta = 1,
+  level = "population",
+  id = ncol(extr) - 1, group = ncol(extr),
+  use.derivatives = 1,
+  model = "glasso", algorithm = "louvain",
+  corr = "pearson",
+  ncores = 6
+)
+
+plot(imp_ega_extr)
+```
+
+#### Agreeableness
+
+```{r dynEGA_agreeableness, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+# Get agreeableness items
+imp_agre <- imp_items[,c(
+  grep("agreeableness", colnames(imp_items)), 61, 62
+)]
+
+imp_ega_agre <- dynEGA(
+  data = imp_agre,
+  n.embed = 4,
+  tau = 1, delta = 1,
+  level = "population",
+  id = ncol(agre) - 1, group = ncol(agre),
+  use.derivatives = 1,
+  model = "glasso", algorithm = "louvain",
+  corr = "pearson",
+  ncores = 6
+)
+
+plot(imp_ega_agre)
+```
+
+#### Neuroticism
+
+```{r dynEGA_neuroticism, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+# Get neuroticism items
+imp_neur <- imp_items[,c(
+  grep("neuroticism", colnames(imp_items)), 61, 62
+)]
+
+imp_ega_neur <- dynEGA(
+  data = imp_neur,
+  n.embed = 4,
+  tau = 1, delta = 1,
+  level = "population",
+  id = ncol(neur) - 1, group = ncol(neur),
+  use.derivatives = 1,
+  model = "glasso", algorithm = "louvain",
+  corr = "pearson",
+  ncores = 6
+)
+
+plot(imp_ega_neur)
+```
+
+## Loading Comparison Test
+### Traits
+
+```{r LCT_traits, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+LCT(imp_ega_pop$dynEGA$cor.data, n = length(FILES))
+```
+
+### Facets
+#### Openness to Experience
+```{r LCT_open, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+LCT(imp_ega_open$dynEGA$cor.data, n = length(FILES))
+```
+
+#### Conscientiousness
+```{r LCT_cons, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+LCT(imp_ega_cons$dynEGA$cor.data, n = length(FILES))
+```
+
+#### Extraversion
+```{r LCT_extr, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+LCT(imp_ega_extr$dynEGA$cor.data, n = length(FILES))
+```
+
+#### Agreeableness
+```{r LCT_agre, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+LCT(imp_ega_agre$dynEGA$cor.data, n = length(FILES))
+```
+
+#### Neuroticism
+```{r LCT_neur, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+LCT(imp_ega_neur$dynEGA$cor.data, n = length(FILES))
+```
+
+# Q3
+
+## Dynamic Exploratory Graph Analysis: Individual
+
+```{r dynEGA_individual, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+imp_ega_ind <- dynEGA(
+  data = imp_items,
+  n.embed = 4,
+  tau = 1, delta = 1,
+  level = "individual",
+  id = ncol(imp_items) - 1, group = ncol(imp_items),
+  use.derivatives = 1,
+  model = "glasso", algorithm = "louvain",
+  corr = "pearson",
+  ncores = 6
+)
+```
+
+# Q4
+
+## Distribution of Within-person Factors
+```{r dynEGA_individual_distribution, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+# Obtain dimensions
+dims <- unlist(
+  lapply(imp_ega_ind$dynEGA, function(x){
+  x$n.dim
+})
+)
+
+# Summary of dimensions
+desc.dims <- c(
+  mean(dims), sd(dims), range(dims)
+)
+names(desc.dims) <- c("Mean", "SD", "Low", "High")
+
+# Proportions
+dimensions <- list()
+
+dimensions$Between <- ega_pop$dynEGA$n.dim
+
+dimensions$Within <- table(unlist(lapply(ega_ind$dynEGA, function(x){x$n.dim}))) / length(ega_ind)
+```
+
+## Match between Theoretical Structure
+```{r NMI_theoretical, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+# Obtain item placements
+placements <- lapply(imp_ega_ind$dynEGA, function(x){
+  x$wc
+})
+
+# Theoretical placements
+theoretical <- numeric(length = ncol(imp_items[,-c(61,62)]))
+theoretical[c(grep("openness", colnames(imp_items)))] <- 1
+theoretical[c(grep("conscientiousness", colnames(imp_items)))] <- 2
+theoretical[c(grep("extraversion", colnames(imp_items)))] <- 3
+theoretical[c(grep("agreeableness", colnames(imp_items)))] <- 4
+theoretical[c(grep("neuroticism", colnames(imp_items)))] <- 1
+names(theoretical) <- names(placements[[1]])
+
+
+# Loop through placements
+theo_nmi <- unlist(
+  lapply(
+  placements, function(x, theo){
+    
+    # Remove items not in a dimension
+    items <- na.omit(x)
+    
+    # Match with theoretical
+    matched <- theo[match(names(items), names(theo))]
+    
+    # Compute NMI
+    igraph::compare(items, matched, method = "nmi")
+    
+  }, theo = theoretical
+)
+)
+
+```
+
+## Match between People
+```{r NMI_people, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+
+# Initialize matrix of people
+people_nmi <- matrix(nrow = length(FILES), ncol = length(FILES))
+colnames(people_nmi) <- gsub(".csv", "", FILES)
+row.names(people_nmi) <- colnames(people_nmi)
+
+# Loop through placements
+for(i in 1:length(FILES))
+  for(j in 1:length(FILES)){
+    
+    # Person 1
+    person1 <- na.omit(placements[[paste(
+      "ID", gsub(".csv", "", FILES[i]), sep = ""
+    )]])
+    
+    # Person 2
+    person2 <- na.omit(placements[[paste(
+      "ID", gsub(".csv", "", FILES[j]), sep = ""
+    )]])
+    
+    # Match person 1 with person 2
+    matched <- intersect(names(person1), names(person2))
+    
+    # Compute NMI
+    people_nmi[i,j] <- igraph::compare(
+      person1[matched], person2[matched], method = "nmi"
+    )
+    
+  }
+
+# Visualize
+col0 <- colorRampPalette(c("grey", "orange", "#FF7733"))
+
+corrplot(
+  people_nmi, method = "color",
+  cl.lim = c(0,1), is.corr = FALSE,
+  type = "lower", diag = FALSE,
+  addgrid.col = "black",
+  tl.col = "black", col = col0(100),
+  na.label.col = "white"
+)
+```
+
+#Q7
+
+## Rank-order Correlation
+```{r centrality, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+# Initialize matrix for strengths
+strengths <- matrix(nrow = ncol(imp_ega_pop$dynEGA$network), ncol = length(FILES) + 1)
+colnames(strengths) <- c("Between", gsub(".csv", "", FILES))
+row.names(strengths) <- colnames(imp_ega_pop$dynEGA$network)
+
+# Loop through placements
+for(i in 1:(length(FILES) + 1)){
+  
+  if(i == 1){
+    strengths[,i] <- strength(imp_ega_pop$dynEGA$network)
+  }else{
+    strengths[,i] <- strength(imp_ega_ind$dynEGA[[(i-1)]]$network)
+  }
+  
+}
+
+# Rank-order correlation with between-person strength
+cor(strengths, method = "spearman", use = "pairwise.complete.obs")[-1,1]
+```
+
+## How many nodes in the top five of between-person are the same as top five within-person
+
+```{r top_five, echo = TRUE, eval = TRUE, message = NA, warning = NA}
+# Get rank-orderings
+strength_rank <- apply(strengths, 2, rank)
+
+# Make list of top five
+top_fives <- apply(strength_rank, 2, function(x){
+  as.list(x[x <= 5])
+})
+
+# Obtain the matches across people
+matched_top_fives <- lapply(top_fives[-1], function(x, between){
+  na.omit(match(names(x), names(between)))
+}, between = top_fives[[1]])
+
+# Compute proportions
+top_five_proportions <- table(unlist(matched_top_fives)) / length(matched_top_fives)
+
+# Manage table structure
+names(top_five_proportions) <- names(top_fives[[1]][as.numeric(names(top_five_proportions))])
+names(top_five_proportions) <- gsub(".Ord1", "", names(top_five_proportions))
+top_five_proportions <- c(top_five_proportions, length(top_five_proportions) / ncol(imp_ega_pop$dynEGA$network))
+names(top_five_proportions)[length(top_five_proportions)] <- "Random Chance"
+top_five_proportions <- as.data.frame(top_five_proportions)
+colnames(top_five_proportions) <- "Proportion"
+
+# Create table
+kable(
+  top_five_proportions, row.names = TRUE
+)
+
+```
+
+

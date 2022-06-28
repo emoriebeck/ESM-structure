@@ -1,0 +1,1366 @@
+Full_Date,all_beeps,Trait,Facet,value
+2018-11-26 11:06,1,agreeableness,Compassion,NA
+2018-11-26 11:06,1,agreeableness,Respectfulness,3
+2018-11-26 11:06,1,agreeableness,Trust,3
+2018-11-26 11:06,1,conscientiousness,Organization,NA
+2018-11-26 11:06,1,conscientiousness,Productiveness,4
+2018-11-26 11:06,1,conscientiousness,Responsibility,5
+2018-11-26 11:06,1,extraversion,Assertiveness,NA
+2018-11-26 11:06,1,extraversion,Energy Level,2
+2018-11-26 11:06,1,extraversion,Sociability,3
+2018-11-26 11:06,1,neuroticism,Anxiety,2.5
+2018-11-26 11:06,1,neuroticism,Depression,2
+2018-11-26 11:06,1,neuroticism,Emotional Volatility,3
+2018-11-26 11:06,1,openness,Aesthetic Sensitivity,NA
+2018-11-26 11:06,1,openness,Creative Imagination,NA
+2018-11-26 11:06,1,openness,Intellectual Curiosity,3.5
+2018-11-26 13:10,2,agreeableness,Compassion,5
+2018-11-26 13:10,2,agreeableness,Respectfulness,NA
+2018-11-26 13:10,2,agreeableness,Trust,4
+2018-11-26 13:10,2,conscientiousness,Organization,NA
+2018-11-26 13:10,2,conscientiousness,Productiveness,NA
+2018-11-26 13:10,2,conscientiousness,Responsibility,4.5
+2018-11-26 13:10,2,extraversion,Assertiveness,3
+2018-11-26 13:10,2,extraversion,Energy Level,4
+2018-11-26 13:10,2,extraversion,Sociability,NA
+2018-11-26 13:10,2,neuroticism,Anxiety,2
+2018-11-26 13:10,2,neuroticism,Depression,1.5
+2018-11-26 13:10,2,neuroticism,Emotional Volatility,1
+2018-11-26 13:10,2,openness,Aesthetic Sensitivity,4
+2018-11-26 13:10,2,openness,Creative Imagination,NA
+2018-11-26 13:10,2,openness,Intellectual Curiosity,NA
+2018-11-26 18:04,3,agreeableness,Compassion,3
+2018-11-26 18:04,3,agreeableness,Respectfulness,NA
+2018-11-26 18:04,3,agreeableness,Trust,3
+2018-11-26 18:04,3,conscientiousness,Organization,1
+2018-11-26 18:04,3,conscientiousness,Productiveness,NA
+2018-11-26 18:04,3,conscientiousness,Responsibility,3
+2018-11-26 18:04,3,extraversion,Assertiveness,2
+2018-11-26 18:04,3,extraversion,Energy Level,NA
+2018-11-26 18:04,3,extraversion,Sociability,1
+2018-11-26 18:04,3,neuroticism,Anxiety,5
+2018-11-26 18:04,3,neuroticism,Depression,5
+2018-11-26 18:04,3,neuroticism,Emotional Volatility,5
+2018-11-26 18:04,3,openness,Aesthetic Sensitivity,2.5
+2018-11-26 18:04,3,openness,Creative Imagination,NA
+2018-11-26 18:04,3,openness,Intellectual Curiosity,NA
+2018-11-26 21:09,4,agreeableness,Compassion,NA
+2018-11-26 21:09,4,agreeableness,Respectfulness,NA
+2018-11-26 21:09,4,agreeableness,Trust,3
+2018-11-26 21:09,4,conscientiousness,Organization,NA
+2018-11-26 21:09,4,conscientiousness,Productiveness,2
+2018-11-26 21:09,4,conscientiousness,Responsibility,3
+2018-11-26 21:09,4,extraversion,Assertiveness,2
+2018-11-26 21:09,4,extraversion,Energy Level,NA
+2018-11-26 21:09,4,extraversion,Sociability,3
+2018-11-26 21:09,4,neuroticism,Anxiety,2.5
+2018-11-26 21:09,4,neuroticism,Depression,4
+2018-11-26 21:09,4,neuroticism,Emotional Volatility,NA
+2018-11-26 21:09,4,openness,Aesthetic Sensitivity,NA
+2018-11-26 21:09,4,openness,Creative Imagination,2.5
+2018-11-26 21:09,4,openness,Intellectual Curiosity,NA
+2018-11-27 1:00,5,agreeableness,Compassion,NA
+2018-11-27 1:00,5,agreeableness,Respectfulness,NA
+2018-11-27 1:00,5,agreeableness,Trust,NA
+2018-11-27 1:00,5,conscientiousness,Organization,NA
+2018-11-27 1:00,5,conscientiousness,Productiveness,NA
+2018-11-27 1:00,5,conscientiousness,Responsibility,NA
+2018-11-27 1:00,5,extraversion,Assertiveness,NA
+2018-11-27 1:00,5,extraversion,Energy Level,NA
+2018-11-27 1:00,5,extraversion,Sociability,NA
+2018-11-27 1:00,5,neuroticism,Anxiety,NA
+2018-11-27 1:00,5,neuroticism,Depression,NA
+2018-11-27 1:00,5,neuroticism,Emotional Volatility,NA
+2018-11-27 1:00,5,openness,Aesthetic Sensitivity,NA
+2018-11-27 1:00,5,openness,Creative Imagination,NA
+2018-11-27 1:00,5,openness,Intellectual Curiosity,NA
+2018-11-27 5:00,6,agreeableness,Compassion,NA
+2018-11-27 5:00,6,agreeableness,Respectfulness,NA
+2018-11-27 5:00,6,agreeableness,Trust,NA
+2018-11-27 5:00,6,conscientiousness,Organization,NA
+2018-11-27 5:00,6,conscientiousness,Productiveness,NA
+2018-11-27 5:00,6,conscientiousness,Responsibility,NA
+2018-11-27 5:00,6,extraversion,Assertiveness,NA
+2018-11-27 5:00,6,extraversion,Energy Level,NA
+2018-11-27 5:00,6,extraversion,Sociability,NA
+2018-11-27 5:00,6,neuroticism,Anxiety,NA
+2018-11-27 5:00,6,neuroticism,Depression,NA
+2018-11-27 5:00,6,neuroticism,Emotional Volatility,NA
+2018-11-27 5:00,6,openness,Aesthetic Sensitivity,NA
+2018-11-27 5:00,6,openness,Creative Imagination,NA
+2018-11-27 5:00,6,openness,Intellectual Curiosity,NA
+2018-11-27 9:00,7,agreeableness,Compassion,NA
+2018-11-27 9:00,7,agreeableness,Respectfulness,NA
+2018-11-27 9:00,7,agreeableness,Trust,NA
+2018-11-27 9:00,7,conscientiousness,Organization,NA
+2018-11-27 9:00,7,conscientiousness,Productiveness,NA
+2018-11-27 9:00,7,conscientiousness,Responsibility,NA
+2018-11-27 9:00,7,extraversion,Assertiveness,NA
+2018-11-27 9:00,7,extraversion,Energy Level,NA
+2018-11-27 9:00,7,extraversion,Sociability,NA
+2018-11-27 9:00,7,neuroticism,Anxiety,NA
+2018-11-27 9:00,7,neuroticism,Depression,NA
+2018-11-27 9:00,7,neuroticism,Emotional Volatility,NA
+2018-11-27 9:00,7,openness,Aesthetic Sensitivity,NA
+2018-11-27 9:00,7,openness,Creative Imagination,NA
+2018-11-27 9:00,7,openness,Intellectual Curiosity,NA
+2018-11-27 13:17,8,agreeableness,Compassion,NA
+2018-11-27 13:17,8,agreeableness,Respectfulness,3
+2018-11-27 13:17,8,agreeableness,Trust,NA
+2018-11-27 13:17,8,conscientiousness,Organization,5
+2018-11-27 13:17,8,conscientiousness,Productiveness,2
+2018-11-27 13:17,8,conscientiousness,Responsibility,NA
+2018-11-27 13:17,8,extraversion,Assertiveness,3
+2018-11-27 13:17,8,extraversion,Energy Level,3
+2018-11-27 13:17,8,extraversion,Sociability,NA
+2018-11-27 13:17,8,neuroticism,Anxiety,1
+2018-11-27 13:17,8,neuroticism,Depression,1.5
+2018-11-27 13:17,8,neuroticism,Emotional Volatility,1
+2018-11-27 13:17,8,openness,Aesthetic Sensitivity,NA
+2018-11-27 13:17,8,openness,Creative Imagination,3
+2018-11-27 13:17,8,openness,Intellectual Curiosity,1
+2018-11-27 17:09,9,agreeableness,Compassion,3
+2018-11-27 17:09,9,agreeableness,Respectfulness,NA
+2018-11-27 17:09,9,agreeableness,Trust,NA
+2018-11-27 17:09,9,conscientiousness,Organization,4
+2018-11-27 17:09,9,conscientiousness,Productiveness,NA
+2018-11-27 17:09,9,conscientiousness,Responsibility,2
+2018-11-27 17:09,9,extraversion,Assertiveness,NA
+2018-11-27 17:09,9,extraversion,Energy Level,NA
+2018-11-27 17:09,9,extraversion,Sociability,2
+2018-11-27 17:09,9,neuroticism,Anxiety,2
+2018-11-27 17:09,9,neuroticism,Depression,3.5
+2018-11-27 17:09,9,neuroticism,Emotional Volatility,4
+2018-11-27 17:09,9,openness,Aesthetic Sensitivity,2
+2018-11-27 17:09,9,openness,Creative Imagination,2
+2018-11-27 17:09,9,openness,Intellectual Curiosity,NA
+2018-11-27 21:00,10,agreeableness,Compassion,NA
+2018-11-27 21:00,10,agreeableness,Respectfulness,NA
+2018-11-27 21:00,10,agreeableness,Trust,NA
+2018-11-27 21:00,10,conscientiousness,Organization,NA
+2018-11-27 21:00,10,conscientiousness,Productiveness,NA
+2018-11-27 21:00,10,conscientiousness,Responsibility,NA
+2018-11-27 21:00,10,extraversion,Assertiveness,NA
+2018-11-27 21:00,10,extraversion,Energy Level,NA
+2018-11-27 21:00,10,extraversion,Sociability,NA
+2018-11-27 21:00,10,neuroticism,Anxiety,NA
+2018-11-27 21:00,10,neuroticism,Depression,NA
+2018-11-27 21:00,10,neuroticism,Emotional Volatility,NA
+2018-11-27 21:00,10,openness,Aesthetic Sensitivity,NA
+2018-11-27 21:00,10,openness,Creative Imagination,NA
+2018-11-27 21:00,10,openness,Intellectual Curiosity,NA
+2018-11-28 1:00,11,agreeableness,Compassion,NA
+2018-11-28 1:00,11,agreeableness,Respectfulness,NA
+2018-11-28 1:00,11,agreeableness,Trust,NA
+2018-11-28 1:00,11,conscientiousness,Organization,NA
+2018-11-28 1:00,11,conscientiousness,Productiveness,NA
+2018-11-28 1:00,11,conscientiousness,Responsibility,NA
+2018-11-28 1:00,11,extraversion,Assertiveness,NA
+2018-11-28 1:00,11,extraversion,Energy Level,NA
+2018-11-28 1:00,11,extraversion,Sociability,NA
+2018-11-28 1:00,11,neuroticism,Anxiety,NA
+2018-11-28 1:00,11,neuroticism,Depression,NA
+2018-11-28 1:00,11,neuroticism,Emotional Volatility,NA
+2018-11-28 1:00,11,openness,Aesthetic Sensitivity,NA
+2018-11-28 1:00,11,openness,Creative Imagination,NA
+2018-11-28 1:00,11,openness,Intellectual Curiosity,NA
+2018-11-28 5:00,12,agreeableness,Compassion,NA
+2018-11-28 5:00,12,agreeableness,Respectfulness,NA
+2018-11-28 5:00,12,agreeableness,Trust,NA
+2018-11-28 5:00,12,conscientiousness,Organization,NA
+2018-11-28 5:00,12,conscientiousness,Productiveness,NA
+2018-11-28 5:00,12,conscientiousness,Responsibility,NA
+2018-11-28 5:00,12,extraversion,Assertiveness,NA
+2018-11-28 5:00,12,extraversion,Energy Level,NA
+2018-11-28 5:00,12,extraversion,Sociability,NA
+2018-11-28 5:00,12,neuroticism,Anxiety,NA
+2018-11-28 5:00,12,neuroticism,Depression,NA
+2018-11-28 5:00,12,neuroticism,Emotional Volatility,NA
+2018-11-28 5:00,12,openness,Aesthetic Sensitivity,NA
+2018-11-28 5:00,12,openness,Creative Imagination,NA
+2018-11-28 5:00,12,openness,Intellectual Curiosity,NA
+2018-11-28 9:57,13,agreeableness,Compassion,5
+2018-11-28 9:57,13,agreeableness,Respectfulness,3
+2018-11-28 9:57,13,agreeableness,Trust,NA
+2018-11-28 9:57,13,conscientiousness,Organization,NA
+2018-11-28 9:57,13,conscientiousness,Productiveness,2
+2018-11-28 9:57,13,conscientiousness,Responsibility,NA
+2018-11-28 9:57,13,extraversion,Assertiveness,3
+2018-11-28 9:57,13,extraversion,Energy Level,NA
+2018-11-28 9:57,13,extraversion,Sociability,1
+2018-11-28 9:57,13,neuroticism,Anxiety,4
+2018-11-28 9:57,13,neuroticism,Depression,1
+2018-11-28 9:57,13,neuroticism,Emotional Volatility,2.5
+2018-11-28 9:57,13,openness,Aesthetic Sensitivity,2
+2018-11-28 9:57,13,openness,Creative Imagination,2
+2018-11-28 9:57,13,openness,Intellectual Curiosity,NA
+2018-11-28 13:01,14,agreeableness,Compassion,3
+2018-11-28 13:01,14,agreeableness,Respectfulness,4
+2018-11-28 13:01,14,agreeableness,Trust,NA
+2018-11-28 13:01,14,conscientiousness,Organization,5
+2018-11-28 13:01,14,conscientiousness,Productiveness,NA
+2018-11-28 13:01,14,conscientiousness,Responsibility,4
+2018-11-28 13:01,14,extraversion,Assertiveness,3
+2018-11-28 13:01,14,extraversion,Energy Level,NA
+2018-11-28 13:01,14,extraversion,Sociability,1
+2018-11-28 13:01,14,neuroticism,Anxiety,3.5
+2018-11-28 13:01,14,neuroticism,Depression,1
+2018-11-28 13:01,14,neuroticism,Emotional Volatility,1
+2018-11-28 13:01,14,openness,Aesthetic Sensitivity,3
+2018-11-28 13:01,14,openness,Creative Imagination,NA
+2018-11-28 13:01,14,openness,Intellectual Curiosity,4
+2018-11-28 17:00,15,agreeableness,Compassion,NA
+2018-11-28 17:00,15,agreeableness,Respectfulness,NA
+2018-11-28 17:00,15,agreeableness,Trust,NA
+2018-11-28 17:00,15,conscientiousness,Organization,NA
+2018-11-28 17:00,15,conscientiousness,Productiveness,NA
+2018-11-28 17:00,15,conscientiousness,Responsibility,NA
+2018-11-28 17:00,15,extraversion,Assertiveness,NA
+2018-11-28 17:00,15,extraversion,Energy Level,NA
+2018-11-28 17:00,15,extraversion,Sociability,NA
+2018-11-28 17:00,15,neuroticism,Anxiety,NA
+2018-11-28 17:00,15,neuroticism,Depression,NA
+2018-11-28 17:00,15,neuroticism,Emotional Volatility,NA
+2018-11-28 17:00,15,openness,Aesthetic Sensitivity,NA
+2018-11-28 17:00,15,openness,Creative Imagination,NA
+2018-11-28 17:00,15,openness,Intellectual Curiosity,NA
+2018-11-28 23:23,16,agreeableness,Compassion,NA
+2018-11-28 23:23,16,agreeableness,Respectfulness,3
+2018-11-28 23:23,16,agreeableness,Trust,3
+2018-11-28 23:23,16,conscientiousness,Organization,NA
+2018-11-28 23:23,16,conscientiousness,Productiveness,3
+2018-11-28 23:23,16,conscientiousness,Responsibility,3
+2018-11-28 23:23,16,extraversion,Assertiveness,5
+2018-11-28 23:23,16,extraversion,Energy Level,NA
+2018-11-28 23:23,16,extraversion,Sociability,3
+2018-11-28 23:23,16,neuroticism,Anxiety,1
+2018-11-28 23:23,16,neuroticism,Depression,1
+2018-11-28 23:23,16,neuroticism,Emotional Volatility,1
+2018-11-28 23:23,16,openness,Aesthetic Sensitivity,NA
+2018-11-28 23:23,16,openness,Creative Imagination,NA
+2018-11-28 23:23,16,openness,Intellectual Curiosity,5
+2018-11-29 1:00,17,agreeableness,Compassion,NA
+2018-11-29 1:00,17,agreeableness,Respectfulness,NA
+2018-11-29 1:00,17,agreeableness,Trust,NA
+2018-11-29 1:00,17,conscientiousness,Organization,NA
+2018-11-29 1:00,17,conscientiousness,Productiveness,NA
+2018-11-29 1:00,17,conscientiousness,Responsibility,NA
+2018-11-29 1:00,17,extraversion,Assertiveness,NA
+2018-11-29 1:00,17,extraversion,Energy Level,NA
+2018-11-29 1:00,17,extraversion,Sociability,NA
+2018-11-29 1:00,17,neuroticism,Anxiety,NA
+2018-11-29 1:00,17,neuroticism,Depression,NA
+2018-11-29 1:00,17,neuroticism,Emotional Volatility,NA
+2018-11-29 1:00,17,openness,Aesthetic Sensitivity,NA
+2018-11-29 1:00,17,openness,Creative Imagination,NA
+2018-11-29 1:00,17,openness,Intellectual Curiosity,NA
+2018-11-29 5:00,18,agreeableness,Compassion,NA
+2018-11-29 5:00,18,agreeableness,Respectfulness,NA
+2018-11-29 5:00,18,agreeableness,Trust,NA
+2018-11-29 5:00,18,conscientiousness,Organization,NA
+2018-11-29 5:00,18,conscientiousness,Productiveness,NA
+2018-11-29 5:00,18,conscientiousness,Responsibility,NA
+2018-11-29 5:00,18,extraversion,Assertiveness,NA
+2018-11-29 5:00,18,extraversion,Energy Level,NA
+2018-11-29 5:00,18,extraversion,Sociability,NA
+2018-11-29 5:00,18,neuroticism,Anxiety,NA
+2018-11-29 5:00,18,neuroticism,Depression,NA
+2018-11-29 5:00,18,neuroticism,Emotional Volatility,NA
+2018-11-29 5:00,18,openness,Aesthetic Sensitivity,NA
+2018-11-29 5:00,18,openness,Creative Imagination,NA
+2018-11-29 5:00,18,openness,Intellectual Curiosity,NA
+2018-11-29 9:43,19,agreeableness,Compassion,NA
+2018-11-29 9:43,19,agreeableness,Respectfulness,3.3333333333333335
+2018-11-29 9:43,19,agreeableness,Trust,NA
+2018-11-29 9:43,19,conscientiousness,Organization,4
+2018-11-29 9:43,19,conscientiousness,Productiveness,NA
+2018-11-29 9:43,19,conscientiousness,Responsibility,1
+2018-11-29 9:43,19,extraversion,Assertiveness,NA
+2018-11-29 9:43,19,extraversion,Energy Level,4
+2018-11-29 9:43,19,extraversion,Sociability,4
+2018-11-29 9:43,19,neuroticism,Anxiety,2
+2018-11-29 9:43,19,neuroticism,Depression,2
+2018-11-29 9:43,19,neuroticism,Emotional Volatility,2
+2018-11-29 9:43,19,openness,Aesthetic Sensitivity,2
+2018-11-29 9:43,19,openness,Creative Imagination,NA
+2018-11-29 9:43,19,openness,Intellectual Curiosity,NA
+2018-11-29 13:26,20,agreeableness,Compassion,5
+2018-11-29 13:26,20,agreeableness,Respectfulness,NA
+2018-11-29 13:26,20,agreeableness,Trust,1
+2018-11-29 13:26,20,conscientiousness,Organization,5
+2018-11-29 13:26,20,conscientiousness,Productiveness,5
+2018-11-29 13:26,20,conscientiousness,Responsibility,NA
+2018-11-29 13:26,20,extraversion,Assertiveness,NA
+2018-11-29 13:26,20,extraversion,Energy Level,5
+2018-11-29 13:26,20,extraversion,Sociability,5
+2018-11-29 13:26,20,neuroticism,Anxiety,1
+2018-11-29 13:26,20,neuroticism,Depression,1
+2018-11-29 13:26,20,neuroticism,Emotional Volatility,1
+2018-11-29 13:26,20,openness,Aesthetic Sensitivity,NA
+2018-11-29 13:26,20,openness,Creative Imagination,1
+2018-11-29 13:26,20,openness,Intellectual Curiosity,NA
+2018-11-29 17:12,21,agreeableness,Compassion,5
+2018-11-29 17:12,21,agreeableness,Respectfulness,NA
+2018-11-29 17:12,21,agreeableness,Trust,3
+2018-11-29 17:12,21,conscientiousness,Organization,NA
+2018-11-29 17:12,21,conscientiousness,Productiveness,5
+2018-11-29 17:12,21,conscientiousness,Responsibility,5
+2018-11-29 17:12,21,extraversion,Assertiveness,3
+2018-11-29 17:12,21,extraversion,Energy Level,3
+2018-11-29 17:12,21,extraversion,Sociability,NA
+2018-11-29 17:12,21,neuroticism,Anxiety,2
+2018-11-29 17:12,21,neuroticism,Depression,2
+2018-11-29 17:12,21,neuroticism,Emotional Volatility,1
+2018-11-29 17:12,21,openness,Aesthetic Sensitivity,2
+2018-11-29 17:12,21,openness,Creative Imagination,NA
+2018-11-29 17:12,21,openness,Intellectual Curiosity,NA
+2018-11-29 21:04,22,agreeableness,Compassion,4
+2018-11-29 21:04,22,agreeableness,Respectfulness,4
+2018-11-29 21:04,22,agreeableness,Trust,NA
+2018-11-29 21:04,22,conscientiousness,Organization,5
+2018-11-29 21:04,22,conscientiousness,Productiveness,NA
+2018-11-29 21:04,22,conscientiousness,Responsibility,5
+2018-11-29 21:04,22,extraversion,Assertiveness,1
+2018-11-29 21:04,22,extraversion,Energy Level,NA
+2018-11-29 21:04,22,extraversion,Sociability,5
+2018-11-29 21:04,22,neuroticism,Anxiety,4
+2018-11-29 21:04,22,neuroticism,Depression,2
+2018-11-29 21:04,22,neuroticism,Emotional Volatility,NA
+2018-11-29 21:04,22,openness,Aesthetic Sensitivity,NA
+2018-11-29 21:04,22,openness,Creative Imagination,2.5
+2018-11-29 21:04,22,openness,Intellectual Curiosity,NA
+2018-11-30 1:00,23,agreeableness,Compassion,NA
+2018-11-30 1:00,23,agreeableness,Respectfulness,NA
+2018-11-30 1:00,23,agreeableness,Trust,NA
+2018-11-30 1:00,23,conscientiousness,Organization,NA
+2018-11-30 1:00,23,conscientiousness,Productiveness,NA
+2018-11-30 1:00,23,conscientiousness,Responsibility,NA
+2018-11-30 1:00,23,extraversion,Assertiveness,NA
+2018-11-30 1:00,23,extraversion,Energy Level,NA
+2018-11-30 1:00,23,extraversion,Sociability,NA
+2018-11-30 1:00,23,neuroticism,Anxiety,NA
+2018-11-30 1:00,23,neuroticism,Depression,NA
+2018-11-30 1:00,23,neuroticism,Emotional Volatility,NA
+2018-11-30 1:00,23,openness,Aesthetic Sensitivity,NA
+2018-11-30 1:00,23,openness,Creative Imagination,NA
+2018-11-30 1:00,23,openness,Intellectual Curiosity,NA
+2018-11-30 5:00,24,agreeableness,Compassion,NA
+2018-11-30 5:00,24,agreeableness,Respectfulness,NA
+2018-11-30 5:00,24,agreeableness,Trust,NA
+2018-11-30 5:00,24,conscientiousness,Organization,NA
+2018-11-30 5:00,24,conscientiousness,Productiveness,NA
+2018-11-30 5:00,24,conscientiousness,Responsibility,NA
+2018-11-30 5:00,24,extraversion,Assertiveness,NA
+2018-11-30 5:00,24,extraversion,Energy Level,NA
+2018-11-30 5:00,24,extraversion,Sociability,NA
+2018-11-30 5:00,24,neuroticism,Anxiety,NA
+2018-11-30 5:00,24,neuroticism,Depression,NA
+2018-11-30 5:00,24,neuroticism,Emotional Volatility,NA
+2018-11-30 5:00,24,openness,Aesthetic Sensitivity,NA
+2018-11-30 5:00,24,openness,Creative Imagination,NA
+2018-11-30 5:00,24,openness,Intellectual Curiosity,NA
+2018-11-30 9:30,25,agreeableness,Compassion,3
+2018-11-30 9:30,25,agreeableness,Respectfulness,NA
+2018-11-30 9:30,25,agreeableness,Trust,NA
+2018-11-30 9:30,25,conscientiousness,Organization,NA
+2018-11-30 9:30,25,conscientiousness,Productiveness,5
+2018-11-30 9:30,25,conscientiousness,Responsibility,3
+2018-11-30 9:30,25,extraversion,Assertiveness,NA
+2018-11-30 9:30,25,extraversion,Energy Level,5
+2018-11-30 9:30,25,extraversion,Sociability,1
+2018-11-30 9:30,25,neuroticism,Anxiety,1
+2018-11-30 9:30,25,neuroticism,Depression,1
+2018-11-30 9:30,25,neuroticism,Emotional Volatility,1
+2018-11-30 9:30,25,openness,Aesthetic Sensitivity,NA
+2018-11-30 9:30,25,openness,Creative Imagination,NA
+2018-11-30 9:30,25,openness,Intellectual Curiosity,5
+2018-11-30 13:00,26,agreeableness,Compassion,NA
+2018-11-30 13:00,26,agreeableness,Respectfulness,NA
+2018-11-30 13:00,26,agreeableness,Trust,NA
+2018-11-30 13:00,26,conscientiousness,Organization,NA
+2018-11-30 13:00,26,conscientiousness,Productiveness,NA
+2018-11-30 13:00,26,conscientiousness,Responsibility,NA
+2018-11-30 13:00,26,extraversion,Assertiveness,NA
+2018-11-30 13:00,26,extraversion,Energy Level,NA
+2018-11-30 13:00,26,extraversion,Sociability,NA
+2018-11-30 13:00,26,neuroticism,Anxiety,NA
+2018-11-30 13:00,26,neuroticism,Depression,NA
+2018-11-30 13:00,26,neuroticism,Emotional Volatility,NA
+2018-11-30 13:00,26,openness,Aesthetic Sensitivity,NA
+2018-11-30 13:00,26,openness,Creative Imagination,NA
+2018-11-30 13:00,26,openness,Intellectual Curiosity,NA
+2018-11-30 17:00,27,agreeableness,Compassion,NA
+2018-11-30 17:00,27,agreeableness,Respectfulness,NA
+2018-11-30 17:00,27,agreeableness,Trust,NA
+2018-11-30 17:00,27,conscientiousness,Organization,NA
+2018-11-30 17:00,27,conscientiousness,Productiveness,NA
+2018-11-30 17:00,27,conscientiousness,Responsibility,NA
+2018-11-30 17:00,27,extraversion,Assertiveness,NA
+2018-11-30 17:00,27,extraversion,Energy Level,NA
+2018-11-30 17:00,27,extraversion,Sociability,NA
+2018-11-30 17:00,27,neuroticism,Anxiety,NA
+2018-11-30 17:00,27,neuroticism,Depression,NA
+2018-11-30 17:00,27,neuroticism,Emotional Volatility,NA
+2018-11-30 17:00,27,openness,Aesthetic Sensitivity,NA
+2018-11-30 17:00,27,openness,Creative Imagination,NA
+2018-11-30 17:00,27,openness,Intellectual Curiosity,NA
+2018-11-30 21:00,28,agreeableness,Compassion,NA
+2018-11-30 21:00,28,agreeableness,Respectfulness,3
+2018-11-30 21:00,28,agreeableness,Trust,3
+2018-11-30 21:00,28,conscientiousness,Organization,NA
+2018-11-30 21:00,28,conscientiousness,Productiveness,2.5
+2018-11-30 21:00,28,conscientiousness,Responsibility,NA
+2018-11-30 21:00,28,extraversion,Assertiveness,NA
+2018-11-30 21:00,28,extraversion,Energy Level,2
+2018-11-30 21:00,28,extraversion,Sociability,4
+2018-11-30 21:00,28,neuroticism,Anxiety,1
+2018-11-30 21:00,28,neuroticism,Depression,1
+2018-11-30 21:00,28,neuroticism,Emotional Volatility,1
+2018-11-30 21:00,28,openness,Aesthetic Sensitivity,3
+2018-11-30 21:00,28,openness,Creative Imagination,NA
+2018-11-30 21:00,28,openness,Intellectual Curiosity,1
+2018-12-01 1:00,29,agreeableness,Compassion,NA
+2018-12-01 1:00,29,agreeableness,Respectfulness,NA
+2018-12-01 1:00,29,agreeableness,Trust,NA
+2018-12-01 1:00,29,conscientiousness,Organization,NA
+2018-12-01 1:00,29,conscientiousness,Productiveness,NA
+2018-12-01 1:00,29,conscientiousness,Responsibility,NA
+2018-12-01 1:00,29,extraversion,Assertiveness,NA
+2018-12-01 1:00,29,extraversion,Energy Level,NA
+2018-12-01 1:00,29,extraversion,Sociability,NA
+2018-12-01 1:00,29,neuroticism,Anxiety,NA
+2018-12-01 1:00,29,neuroticism,Depression,NA
+2018-12-01 1:00,29,neuroticism,Emotional Volatility,NA
+2018-12-01 1:00,29,openness,Aesthetic Sensitivity,NA
+2018-12-01 1:00,29,openness,Creative Imagination,NA
+2018-12-01 1:00,29,openness,Intellectual Curiosity,NA
+2018-12-01 5:00,30,agreeableness,Compassion,NA
+2018-12-01 5:00,30,agreeableness,Respectfulness,NA
+2018-12-01 5:00,30,agreeableness,Trust,NA
+2018-12-01 5:00,30,conscientiousness,Organization,NA
+2018-12-01 5:00,30,conscientiousness,Productiveness,NA
+2018-12-01 5:00,30,conscientiousness,Responsibility,NA
+2018-12-01 5:00,30,extraversion,Assertiveness,NA
+2018-12-01 5:00,30,extraversion,Energy Level,NA
+2018-12-01 5:00,30,extraversion,Sociability,NA
+2018-12-01 5:00,30,neuroticism,Anxiety,NA
+2018-12-01 5:00,30,neuroticism,Depression,NA
+2018-12-01 5:00,30,neuroticism,Emotional Volatility,NA
+2018-12-01 5:00,30,openness,Aesthetic Sensitivity,NA
+2018-12-01 5:00,30,openness,Creative Imagination,NA
+2018-12-01 5:00,30,openness,Intellectual Curiosity,NA
+2018-12-01 11:44,31,agreeableness,Compassion,3
+2018-12-01 11:44,31,agreeableness,Respectfulness,3
+2018-12-01 11:44,31,agreeableness,Trust,NA
+2018-12-01 11:44,31,conscientiousness,Organization,4.5
+2018-12-01 11:44,31,conscientiousness,Productiveness,NA
+2018-12-01 11:44,31,conscientiousness,Responsibility,NA
+2018-12-01 11:44,31,extraversion,Assertiveness,3
+2018-12-01 11:44,31,extraversion,Energy Level,NA
+2018-12-01 11:44,31,extraversion,Sociability,NA
+2018-12-01 11:44,31,neuroticism,Anxiety,2
+2018-12-01 11:44,31,neuroticism,Depression,2
+2018-12-01 11:44,31,neuroticism,Emotional Volatility,2
+2018-12-01 11:44,31,openness,Aesthetic Sensitivity,3
+2018-12-01 11:44,31,openness,Creative Imagination,NA
+2018-12-01 11:44,31,openness,Intellectual Curiosity,3
+2018-12-01 13:31,32,agreeableness,Compassion,5
+2018-12-01 13:31,32,agreeableness,Respectfulness,NA
+2018-12-01 13:31,32,agreeableness,Trust,3
+2018-12-01 13:31,32,conscientiousness,Organization,4.5
+2018-12-01 13:31,32,conscientiousness,Productiveness,NA
+2018-12-01 13:31,32,conscientiousness,Responsibility,NA
+2018-12-01 13:31,32,extraversion,Assertiveness,3
+2018-12-01 13:31,32,extraversion,Energy Level,NA
+2018-12-01 13:31,32,extraversion,Sociability,2
+2018-12-01 13:31,32,neuroticism,Anxiety,2
+2018-12-01 13:31,32,neuroticism,Depression,1.5
+2018-12-01 13:31,32,neuroticism,Emotional Volatility,2
+2018-12-01 13:31,32,openness,Aesthetic Sensitivity,NA
+2018-12-01 13:31,32,openness,Creative Imagination,4
+2018-12-01 13:31,32,openness,Intellectual Curiosity,4
+2018-12-01 17:00,33,agreeableness,Compassion,NA
+2018-12-01 17:00,33,agreeableness,Respectfulness,NA
+2018-12-01 17:00,33,agreeableness,Trust,NA
+2018-12-01 17:00,33,conscientiousness,Organization,NA
+2018-12-01 17:00,33,conscientiousness,Productiveness,NA
+2018-12-01 17:00,33,conscientiousness,Responsibility,NA
+2018-12-01 17:00,33,extraversion,Assertiveness,NA
+2018-12-01 17:00,33,extraversion,Energy Level,NA
+2018-12-01 17:00,33,extraversion,Sociability,NA
+2018-12-01 17:00,33,neuroticism,Anxiety,NA
+2018-12-01 17:00,33,neuroticism,Depression,NA
+2018-12-01 17:00,33,neuroticism,Emotional Volatility,NA
+2018-12-01 17:00,33,openness,Aesthetic Sensitivity,NA
+2018-12-01 17:00,33,openness,Creative Imagination,NA
+2018-12-01 17:00,33,openness,Intellectual Curiosity,NA
+2018-12-01 21:07,34,agreeableness,Compassion,5
+2018-12-01 21:07,34,agreeableness,Respectfulness,NA
+2018-12-01 21:07,34,agreeableness,Trust,3
+2018-12-01 21:07,34,conscientiousness,Organization,NA
+2018-12-01 21:07,34,conscientiousness,Productiveness,2
+2018-12-01 21:07,34,conscientiousness,Responsibility,5
+2018-12-01 21:07,34,extraversion,Assertiveness,NA
+2018-12-01 21:07,34,extraversion,Energy Level,4
+2018-12-01 21:07,34,extraversion,Sociability,4
+2018-12-01 21:07,34,neuroticism,Anxiety,1
+2018-12-01 21:07,34,neuroticism,Depression,3
+2018-12-01 21:07,34,neuroticism,Emotional Volatility,1
+2018-12-01 21:07,34,openness,Aesthetic Sensitivity,3
+2018-12-01 21:07,34,openness,Creative Imagination,NA
+2018-12-01 21:07,34,openness,Intellectual Curiosity,3
+2018-12-02 1:00,35,agreeableness,Compassion,NA
+2018-12-02 1:00,35,agreeableness,Respectfulness,NA
+2018-12-02 1:00,35,agreeableness,Trust,NA
+2018-12-02 1:00,35,conscientiousness,Organization,NA
+2018-12-02 1:00,35,conscientiousness,Productiveness,NA
+2018-12-02 1:00,35,conscientiousness,Responsibility,NA
+2018-12-02 1:00,35,extraversion,Assertiveness,NA
+2018-12-02 1:00,35,extraversion,Energy Level,NA
+2018-12-02 1:00,35,extraversion,Sociability,NA
+2018-12-02 1:00,35,neuroticism,Anxiety,NA
+2018-12-02 1:00,35,neuroticism,Depression,NA
+2018-12-02 1:00,35,neuroticism,Emotional Volatility,NA
+2018-12-02 1:00,35,openness,Aesthetic Sensitivity,NA
+2018-12-02 1:00,35,openness,Creative Imagination,NA
+2018-12-02 1:00,35,openness,Intellectual Curiosity,NA
+2018-12-02 5:00,36,agreeableness,Compassion,NA
+2018-12-02 5:00,36,agreeableness,Respectfulness,NA
+2018-12-02 5:00,36,agreeableness,Trust,NA
+2018-12-02 5:00,36,conscientiousness,Organization,NA
+2018-12-02 5:00,36,conscientiousness,Productiveness,NA
+2018-12-02 5:00,36,conscientiousness,Responsibility,NA
+2018-12-02 5:00,36,extraversion,Assertiveness,NA
+2018-12-02 5:00,36,extraversion,Energy Level,NA
+2018-12-02 5:00,36,extraversion,Sociability,NA
+2018-12-02 5:00,36,neuroticism,Anxiety,NA
+2018-12-02 5:00,36,neuroticism,Depression,NA
+2018-12-02 5:00,36,neuroticism,Emotional Volatility,NA
+2018-12-02 5:00,36,openness,Aesthetic Sensitivity,NA
+2018-12-02 5:00,36,openness,Creative Imagination,NA
+2018-12-02 5:00,36,openness,Intellectual Curiosity,NA
+2018-12-02 9:27,37,agreeableness,Compassion,3
+2018-12-02 9:27,37,agreeableness,Respectfulness,NA
+2018-12-02 9:27,37,agreeableness,Trust,NA
+2018-12-02 9:27,37,conscientiousness,Organization,NA
+2018-12-02 9:27,37,conscientiousness,Productiveness,3
+2018-12-02 9:27,37,conscientiousness,Responsibility,3
+2018-12-02 9:27,37,extraversion,Assertiveness,3
+2018-12-02 9:27,37,extraversion,Energy Level,NA
+2018-12-02 9:27,37,extraversion,Sociability,3
+2018-12-02 9:27,37,neuroticism,Anxiety,3
+2018-12-02 9:27,37,neuroticism,Depression,3
+2018-12-02 9:27,37,neuroticism,Emotional Volatility,3
+2018-12-02 9:27,37,openness,Aesthetic Sensitivity,3
+2018-12-02 9:27,37,openness,Creative Imagination,NA
+2018-12-02 9:27,37,openness,Intellectual Curiosity,3
+2018-12-02 13:00,38,agreeableness,Compassion,NA
+2018-12-02 13:00,38,agreeableness,Respectfulness,NA
+2018-12-02 13:00,38,agreeableness,Trust,NA
+2018-12-02 13:00,38,conscientiousness,Organization,NA
+2018-12-02 13:00,38,conscientiousness,Productiveness,NA
+2018-12-02 13:00,38,conscientiousness,Responsibility,NA
+2018-12-02 13:00,38,extraversion,Assertiveness,NA
+2018-12-02 13:00,38,extraversion,Energy Level,NA
+2018-12-02 13:00,38,extraversion,Sociability,NA
+2018-12-02 13:00,38,neuroticism,Anxiety,NA
+2018-12-02 13:00,38,neuroticism,Depression,NA
+2018-12-02 13:00,38,neuroticism,Emotional Volatility,NA
+2018-12-02 13:00,38,openness,Aesthetic Sensitivity,NA
+2018-12-02 13:00,38,openness,Creative Imagination,NA
+2018-12-02 13:00,38,openness,Intellectual Curiosity,NA
+2018-12-02 17:00,39,agreeableness,Compassion,NA
+2018-12-02 17:00,39,agreeableness,Respectfulness,NA
+2018-12-02 17:00,39,agreeableness,Trust,NA
+2018-12-02 17:00,39,conscientiousness,Organization,NA
+2018-12-02 17:00,39,conscientiousness,Productiveness,NA
+2018-12-02 17:00,39,conscientiousness,Responsibility,NA
+2018-12-02 17:00,39,extraversion,Assertiveness,NA
+2018-12-02 17:00,39,extraversion,Energy Level,NA
+2018-12-02 17:00,39,extraversion,Sociability,NA
+2018-12-02 17:00,39,neuroticism,Anxiety,NA
+2018-12-02 17:00,39,neuroticism,Depression,NA
+2018-12-02 17:00,39,neuroticism,Emotional Volatility,NA
+2018-12-02 17:00,39,openness,Aesthetic Sensitivity,NA
+2018-12-02 17:00,39,openness,Creative Imagination,NA
+2018-12-02 17:00,39,openness,Intellectual Curiosity,NA
+2018-12-02 21:00,40,agreeableness,Compassion,NA
+2018-12-02 21:00,40,agreeableness,Respectfulness,NA
+2018-12-02 21:00,40,agreeableness,Trust,NA
+2018-12-02 21:00,40,conscientiousness,Organization,NA
+2018-12-02 21:00,40,conscientiousness,Productiveness,NA
+2018-12-02 21:00,40,conscientiousness,Responsibility,NA
+2018-12-02 21:00,40,extraversion,Assertiveness,NA
+2018-12-02 21:00,40,extraversion,Energy Level,NA
+2018-12-02 21:00,40,extraversion,Sociability,NA
+2018-12-02 21:00,40,neuroticism,Anxiety,NA
+2018-12-02 21:00,40,neuroticism,Depression,NA
+2018-12-02 21:00,40,neuroticism,Emotional Volatility,NA
+2018-12-02 21:00,40,openness,Aesthetic Sensitivity,NA
+2018-12-02 21:00,40,openness,Creative Imagination,NA
+2018-12-02 21:00,40,openness,Intellectual Curiosity,NA
+2018-12-03 1:00,41,agreeableness,Compassion,NA
+2018-12-03 1:00,41,agreeableness,Respectfulness,NA
+2018-12-03 1:00,41,agreeableness,Trust,NA
+2018-12-03 1:00,41,conscientiousness,Organization,NA
+2018-12-03 1:00,41,conscientiousness,Productiveness,NA
+2018-12-03 1:00,41,conscientiousness,Responsibility,NA
+2018-12-03 1:00,41,extraversion,Assertiveness,NA
+2018-12-03 1:00,41,extraversion,Energy Level,NA
+2018-12-03 1:00,41,extraversion,Sociability,NA
+2018-12-03 1:00,41,neuroticism,Anxiety,NA
+2018-12-03 1:00,41,neuroticism,Depression,NA
+2018-12-03 1:00,41,neuroticism,Emotional Volatility,NA
+2018-12-03 1:00,41,openness,Aesthetic Sensitivity,NA
+2018-12-03 1:00,41,openness,Creative Imagination,NA
+2018-12-03 1:00,41,openness,Intellectual Curiosity,NA
+2018-12-03 5:00,42,agreeableness,Compassion,NA
+2018-12-03 5:00,42,agreeableness,Respectfulness,NA
+2018-12-03 5:00,42,agreeableness,Trust,NA
+2018-12-03 5:00,42,conscientiousness,Organization,NA
+2018-12-03 5:00,42,conscientiousness,Productiveness,NA
+2018-12-03 5:00,42,conscientiousness,Responsibility,NA
+2018-12-03 5:00,42,extraversion,Assertiveness,NA
+2018-12-03 5:00,42,extraversion,Energy Level,NA
+2018-12-03 5:00,42,extraversion,Sociability,NA
+2018-12-03 5:00,42,neuroticism,Anxiety,NA
+2018-12-03 5:00,42,neuroticism,Depression,NA
+2018-12-03 5:00,42,neuroticism,Emotional Volatility,NA
+2018-12-03 5:00,42,openness,Aesthetic Sensitivity,NA
+2018-12-03 5:00,42,openness,Creative Imagination,NA
+2018-12-03 5:00,42,openness,Intellectual Curiosity,NA
+2018-12-03 10:18,43,agreeableness,Compassion,NA
+2018-12-03 10:18,43,agreeableness,Respectfulness,NA
+2018-12-03 10:18,43,agreeableness,Trust,3
+2018-12-03 10:18,43,conscientiousness,Organization,5
+2018-12-03 10:18,43,conscientiousness,Productiveness,3
+2018-12-03 10:18,43,conscientiousness,Responsibility,NA
+2018-12-03 10:18,43,extraversion,Assertiveness,3
+2018-12-03 10:18,43,extraversion,Energy Level,NA
+2018-12-03 10:18,43,extraversion,Sociability,3
+2018-12-03 10:18,43,neuroticism,Anxiety,1.5
+2018-12-03 10:18,43,neuroticism,Depression,2
+2018-12-03 10:18,43,neuroticism,Emotional Volatility,NA
+2018-12-03 10:18,43,openness,Aesthetic Sensitivity,NA
+2018-12-03 10:18,43,openness,Creative Imagination,5
+2018-12-03 10:18,43,openness,Intellectual Curiosity,3
+2018-12-03 13:00,44,agreeableness,Compassion,NA
+2018-12-03 13:00,44,agreeableness,Respectfulness,NA
+2018-12-03 13:00,44,agreeableness,Trust,NA
+2018-12-03 13:00,44,conscientiousness,Organization,NA
+2018-12-03 13:00,44,conscientiousness,Productiveness,NA
+2018-12-03 13:00,44,conscientiousness,Responsibility,NA
+2018-12-03 13:00,44,extraversion,Assertiveness,NA
+2018-12-03 13:00,44,extraversion,Energy Level,NA
+2018-12-03 13:00,44,extraversion,Sociability,NA
+2018-12-03 13:00,44,neuroticism,Anxiety,NA
+2018-12-03 13:00,44,neuroticism,Depression,NA
+2018-12-03 13:00,44,neuroticism,Emotional Volatility,NA
+2018-12-03 13:00,44,openness,Aesthetic Sensitivity,NA
+2018-12-03 13:00,44,openness,Creative Imagination,NA
+2018-12-03 13:00,44,openness,Intellectual Curiosity,NA
+2018-12-03 17:00,45,agreeableness,Compassion,NA
+2018-12-03 17:00,45,agreeableness,Respectfulness,NA
+2018-12-03 17:00,45,agreeableness,Trust,NA
+2018-12-03 17:00,45,conscientiousness,Organization,NA
+2018-12-03 17:00,45,conscientiousness,Productiveness,NA
+2018-12-03 17:00,45,conscientiousness,Responsibility,NA
+2018-12-03 17:00,45,extraversion,Assertiveness,NA
+2018-12-03 17:00,45,extraversion,Energy Level,NA
+2018-12-03 17:00,45,extraversion,Sociability,NA
+2018-12-03 17:00,45,neuroticism,Anxiety,NA
+2018-12-03 17:00,45,neuroticism,Depression,NA
+2018-12-03 17:00,45,neuroticism,Emotional Volatility,NA
+2018-12-03 17:00,45,openness,Aesthetic Sensitivity,NA
+2018-12-03 17:00,45,openness,Creative Imagination,NA
+2018-12-03 17:00,45,openness,Intellectual Curiosity,NA
+2018-12-03 21:27,46,agreeableness,Compassion,NA
+2018-12-03 21:27,46,agreeableness,Respectfulness,4
+2018-12-03 21:27,46,agreeableness,Trust,NA
+2018-12-03 21:27,46,conscientiousness,Organization,NA
+2018-12-03 21:27,46,conscientiousness,Productiveness,4
+2018-12-03 21:27,46,conscientiousness,Responsibility,4
+2018-12-03 21:27,46,extraversion,Assertiveness,NA
+2018-12-03 21:27,46,extraversion,Energy Level,NA
+2018-12-03 21:27,46,extraversion,Sociability,4
+2018-12-03 21:27,46,neuroticism,Anxiety,3.6666666666666665
+2018-12-03 21:27,46,neuroticism,Depression,2
+2018-12-03 21:27,46,neuroticism,Emotional Volatility,NA
+2018-12-03 21:27,46,openness,Aesthetic Sensitivity,NA
+2018-12-03 21:27,46,openness,Creative Imagination,5
+2018-12-03 21:27,46,openness,Intellectual Curiosity,3
+2018-12-03 21:30,47,agreeableness,Compassion,4
+2018-12-03 21:30,47,agreeableness,Respectfulness,4
+2018-12-03 21:30,47,agreeableness,Trust,NA
+2018-12-03 21:30,47,conscientiousness,Organization,NA
+2018-12-03 21:30,47,conscientiousness,Productiveness,3
+2018-12-03 21:30,47,conscientiousness,Responsibility,NA
+2018-12-03 21:30,47,extraversion,Assertiveness,NA
+2018-12-03 21:30,47,extraversion,Energy Level,4
+2018-12-03 21:30,47,extraversion,Sociability,4
+2018-12-03 21:30,47,neuroticism,Anxiety,4
+2018-12-03 21:30,47,neuroticism,Depression,4
+2018-12-03 21:30,47,neuroticism,Emotional Volatility,2.5
+2018-12-03 21:30,47,openness,Aesthetic Sensitivity,NA
+2018-12-03 21:30,47,openness,Creative Imagination,5
+2018-12-03 21:30,47,openness,Intellectual Curiosity,1
+2018-12-04 1:00,48,agreeableness,Compassion,NA
+2018-12-04 1:00,48,agreeableness,Respectfulness,NA
+2018-12-04 1:00,48,agreeableness,Trust,NA
+2018-12-04 1:00,48,conscientiousness,Organization,NA
+2018-12-04 1:00,48,conscientiousness,Productiveness,NA
+2018-12-04 1:00,48,conscientiousness,Responsibility,NA
+2018-12-04 1:00,48,extraversion,Assertiveness,NA
+2018-12-04 1:00,48,extraversion,Energy Level,NA
+2018-12-04 1:00,48,extraversion,Sociability,NA
+2018-12-04 1:00,48,neuroticism,Anxiety,NA
+2018-12-04 1:00,48,neuroticism,Depression,NA
+2018-12-04 1:00,48,neuroticism,Emotional Volatility,NA
+2018-12-04 1:00,48,openness,Aesthetic Sensitivity,NA
+2018-12-04 1:00,48,openness,Creative Imagination,NA
+2018-12-04 1:00,48,openness,Intellectual Curiosity,NA
+2018-12-04 5:00,49,agreeableness,Compassion,NA
+2018-12-04 5:00,49,agreeableness,Respectfulness,NA
+2018-12-04 5:00,49,agreeableness,Trust,NA
+2018-12-04 5:00,49,conscientiousness,Organization,NA
+2018-12-04 5:00,49,conscientiousness,Productiveness,NA
+2018-12-04 5:00,49,conscientiousness,Responsibility,NA
+2018-12-04 5:00,49,extraversion,Assertiveness,NA
+2018-12-04 5:00,49,extraversion,Energy Level,NA
+2018-12-04 5:00,49,extraversion,Sociability,NA
+2018-12-04 5:00,49,neuroticism,Anxiety,NA
+2018-12-04 5:00,49,neuroticism,Depression,NA
+2018-12-04 5:00,49,neuroticism,Emotional Volatility,NA
+2018-12-04 5:00,49,openness,Aesthetic Sensitivity,NA
+2018-12-04 5:00,49,openness,Creative Imagination,NA
+2018-12-04 5:00,49,openness,Intellectual Curiosity,NA
+2018-12-04 11:49,50,agreeableness,Compassion,3
+2018-12-04 11:49,50,agreeableness,Respectfulness,NA
+2018-12-04 11:49,50,agreeableness,Trust,NA
+2018-12-04 11:49,50,conscientiousness,Organization,NA
+2018-12-04 11:49,50,conscientiousness,Productiveness,3
+2018-12-04 11:49,50,conscientiousness,Responsibility,NA
+2018-12-04 11:49,50,extraversion,Assertiveness,NA
+2018-12-04 11:49,50,extraversion,Energy Level,NA
+2018-12-04 11:49,50,extraversion,Sociability,3
+2018-12-04 11:49,50,neuroticism,Anxiety,3
+2018-12-04 11:49,50,neuroticism,Depression,3
+2018-12-04 11:49,50,neuroticism,Emotional Volatility,3
+2018-12-04 11:49,50,openness,Aesthetic Sensitivity,3
+2018-12-04 11:49,50,openness,Creative Imagination,3
+2018-12-04 11:49,50,openness,Intellectual Curiosity,NA
+2018-12-04 13:00,51,agreeableness,Compassion,NA
+2018-12-04 13:00,51,agreeableness,Respectfulness,NA
+2018-12-04 13:00,51,agreeableness,Trust,NA
+2018-12-04 13:00,51,conscientiousness,Organization,NA
+2018-12-04 13:00,51,conscientiousness,Productiveness,NA
+2018-12-04 13:00,51,conscientiousness,Responsibility,NA
+2018-12-04 13:00,51,extraversion,Assertiveness,NA
+2018-12-04 13:00,51,extraversion,Energy Level,NA
+2018-12-04 13:00,51,extraversion,Sociability,NA
+2018-12-04 13:00,51,neuroticism,Anxiety,NA
+2018-12-04 13:00,51,neuroticism,Depression,NA
+2018-12-04 13:00,51,neuroticism,Emotional Volatility,NA
+2018-12-04 13:00,51,openness,Aesthetic Sensitivity,NA
+2018-12-04 13:00,51,openness,Creative Imagination,NA
+2018-12-04 13:00,51,openness,Intellectual Curiosity,NA
+2018-12-04 17:00,52,agreeableness,Compassion,NA
+2018-12-04 17:00,52,agreeableness,Respectfulness,NA
+2018-12-04 17:00,52,agreeableness,Trust,NA
+2018-12-04 17:00,52,conscientiousness,Organization,NA
+2018-12-04 17:00,52,conscientiousness,Productiveness,NA
+2018-12-04 17:00,52,conscientiousness,Responsibility,NA
+2018-12-04 17:00,52,extraversion,Assertiveness,NA
+2018-12-04 17:00,52,extraversion,Energy Level,NA
+2018-12-04 17:00,52,extraversion,Sociability,NA
+2018-12-04 17:00,52,neuroticism,Anxiety,NA
+2018-12-04 17:00,52,neuroticism,Depression,NA
+2018-12-04 17:00,52,neuroticism,Emotional Volatility,NA
+2018-12-04 17:00,52,openness,Aesthetic Sensitivity,NA
+2018-12-04 17:00,52,openness,Creative Imagination,NA
+2018-12-04 17:00,52,openness,Intellectual Curiosity,NA
+2018-12-04 21:00,53,agreeableness,Compassion,NA
+2018-12-04 21:00,53,agreeableness,Respectfulness,NA
+2018-12-04 21:00,53,agreeableness,Trust,NA
+2018-12-04 21:00,53,conscientiousness,Organization,NA
+2018-12-04 21:00,53,conscientiousness,Productiveness,NA
+2018-12-04 21:00,53,conscientiousness,Responsibility,NA
+2018-12-04 21:00,53,extraversion,Assertiveness,NA
+2018-12-04 21:00,53,extraversion,Energy Level,NA
+2018-12-04 21:00,53,extraversion,Sociability,NA
+2018-12-04 21:00,53,neuroticism,Anxiety,NA
+2018-12-04 21:00,53,neuroticism,Depression,NA
+2018-12-04 21:00,53,neuroticism,Emotional Volatility,NA
+2018-12-04 21:00,53,openness,Aesthetic Sensitivity,NA
+2018-12-04 21:00,53,openness,Creative Imagination,NA
+2018-12-04 21:00,53,openness,Intellectual Curiosity,NA
+2018-12-05 1:00,54,agreeableness,Compassion,NA
+2018-12-05 1:00,54,agreeableness,Respectfulness,NA
+2018-12-05 1:00,54,agreeableness,Trust,NA
+2018-12-05 1:00,54,conscientiousness,Organization,NA
+2018-12-05 1:00,54,conscientiousness,Productiveness,NA
+2018-12-05 1:00,54,conscientiousness,Responsibility,NA
+2018-12-05 1:00,54,extraversion,Assertiveness,NA
+2018-12-05 1:00,54,extraversion,Energy Level,NA
+2018-12-05 1:00,54,extraversion,Sociability,NA
+2018-12-05 1:00,54,neuroticism,Anxiety,NA
+2018-12-05 1:00,54,neuroticism,Depression,NA
+2018-12-05 1:00,54,neuroticism,Emotional Volatility,NA
+2018-12-05 1:00,54,openness,Aesthetic Sensitivity,NA
+2018-12-05 1:00,54,openness,Creative Imagination,NA
+2018-12-05 1:00,54,openness,Intellectual Curiosity,NA
+2018-12-05 5:00,55,agreeableness,Compassion,NA
+2018-12-05 5:00,55,agreeableness,Respectfulness,NA
+2018-12-05 5:00,55,agreeableness,Trust,NA
+2018-12-05 5:00,55,conscientiousness,Organization,NA
+2018-12-05 5:00,55,conscientiousness,Productiveness,NA
+2018-12-05 5:00,55,conscientiousness,Responsibility,NA
+2018-12-05 5:00,55,extraversion,Assertiveness,NA
+2018-12-05 5:00,55,extraversion,Energy Level,NA
+2018-12-05 5:00,55,extraversion,Sociability,NA
+2018-12-05 5:00,55,neuroticism,Anxiety,NA
+2018-12-05 5:00,55,neuroticism,Depression,NA
+2018-12-05 5:00,55,neuroticism,Emotional Volatility,NA
+2018-12-05 5:00,55,openness,Aesthetic Sensitivity,NA
+2018-12-05 5:00,55,openness,Creative Imagination,NA
+2018-12-05 5:00,55,openness,Intellectual Curiosity,NA
+2018-12-05 9:00,56,agreeableness,Compassion,NA
+2018-12-05 9:00,56,agreeableness,Respectfulness,NA
+2018-12-05 9:00,56,agreeableness,Trust,NA
+2018-12-05 9:00,56,conscientiousness,Organization,NA
+2018-12-05 9:00,56,conscientiousness,Productiveness,NA
+2018-12-05 9:00,56,conscientiousness,Responsibility,NA
+2018-12-05 9:00,56,extraversion,Assertiveness,NA
+2018-12-05 9:00,56,extraversion,Energy Level,NA
+2018-12-05 9:00,56,extraversion,Sociability,NA
+2018-12-05 9:00,56,neuroticism,Anxiety,NA
+2018-12-05 9:00,56,neuroticism,Depression,NA
+2018-12-05 9:00,56,neuroticism,Emotional Volatility,NA
+2018-12-05 9:00,56,openness,Aesthetic Sensitivity,NA
+2018-12-05 9:00,56,openness,Creative Imagination,NA
+2018-12-05 9:00,56,openness,Intellectual Curiosity,NA
+2018-12-05 13:00,57,agreeableness,Compassion,NA
+2018-12-05 13:00,57,agreeableness,Respectfulness,NA
+2018-12-05 13:00,57,agreeableness,Trust,NA
+2018-12-05 13:00,57,conscientiousness,Organization,NA
+2018-12-05 13:00,57,conscientiousness,Productiveness,NA
+2018-12-05 13:00,57,conscientiousness,Responsibility,NA
+2018-12-05 13:00,57,extraversion,Assertiveness,NA
+2018-12-05 13:00,57,extraversion,Energy Level,NA
+2018-12-05 13:00,57,extraversion,Sociability,NA
+2018-12-05 13:00,57,neuroticism,Anxiety,NA
+2018-12-05 13:00,57,neuroticism,Depression,NA
+2018-12-05 13:00,57,neuroticism,Emotional Volatility,NA
+2018-12-05 13:00,57,openness,Aesthetic Sensitivity,NA
+2018-12-05 13:00,57,openness,Creative Imagination,NA
+2018-12-05 13:00,57,openness,Intellectual Curiosity,NA
+2018-12-05 17:00,58,agreeableness,Compassion,NA
+2018-12-05 17:00,58,agreeableness,Respectfulness,NA
+2018-12-05 17:00,58,agreeableness,Trust,NA
+2018-12-05 17:00,58,conscientiousness,Organization,NA
+2018-12-05 17:00,58,conscientiousness,Productiveness,NA
+2018-12-05 17:00,58,conscientiousness,Responsibility,NA
+2018-12-05 17:00,58,extraversion,Assertiveness,NA
+2018-12-05 17:00,58,extraversion,Energy Level,NA
+2018-12-05 17:00,58,extraversion,Sociability,NA
+2018-12-05 17:00,58,neuroticism,Anxiety,NA
+2018-12-05 17:00,58,neuroticism,Depression,NA
+2018-12-05 17:00,58,neuroticism,Emotional Volatility,NA
+2018-12-05 17:00,58,openness,Aesthetic Sensitivity,NA
+2018-12-05 17:00,58,openness,Creative Imagination,NA
+2018-12-05 17:00,58,openness,Intellectual Curiosity,NA
+2018-12-05 21:00,59,agreeableness,Compassion,NA
+2018-12-05 21:00,59,agreeableness,Respectfulness,NA
+2018-12-05 21:00,59,agreeableness,Trust,NA
+2018-12-05 21:00,59,conscientiousness,Organization,NA
+2018-12-05 21:00,59,conscientiousness,Productiveness,NA
+2018-12-05 21:00,59,conscientiousness,Responsibility,NA
+2018-12-05 21:00,59,extraversion,Assertiveness,NA
+2018-12-05 21:00,59,extraversion,Energy Level,NA
+2018-12-05 21:00,59,extraversion,Sociability,NA
+2018-12-05 21:00,59,neuroticism,Anxiety,NA
+2018-12-05 21:00,59,neuroticism,Depression,NA
+2018-12-05 21:00,59,neuroticism,Emotional Volatility,NA
+2018-12-05 21:00,59,openness,Aesthetic Sensitivity,NA
+2018-12-05 21:00,59,openness,Creative Imagination,NA
+2018-12-05 21:00,59,openness,Intellectual Curiosity,NA
+2018-12-06 1:00,60,agreeableness,Compassion,NA
+2018-12-06 1:00,60,agreeableness,Respectfulness,NA
+2018-12-06 1:00,60,agreeableness,Trust,NA
+2018-12-06 1:00,60,conscientiousness,Organization,NA
+2018-12-06 1:00,60,conscientiousness,Productiveness,NA
+2018-12-06 1:00,60,conscientiousness,Responsibility,NA
+2018-12-06 1:00,60,extraversion,Assertiveness,NA
+2018-12-06 1:00,60,extraversion,Energy Level,NA
+2018-12-06 1:00,60,extraversion,Sociability,NA
+2018-12-06 1:00,60,neuroticism,Anxiety,NA
+2018-12-06 1:00,60,neuroticism,Depression,NA
+2018-12-06 1:00,60,neuroticism,Emotional Volatility,NA
+2018-12-06 1:00,60,openness,Aesthetic Sensitivity,NA
+2018-12-06 1:00,60,openness,Creative Imagination,NA
+2018-12-06 1:00,60,openness,Intellectual Curiosity,NA
+2018-12-06 5:00,61,agreeableness,Compassion,NA
+2018-12-06 5:00,61,agreeableness,Respectfulness,NA
+2018-12-06 5:00,61,agreeableness,Trust,NA
+2018-12-06 5:00,61,conscientiousness,Organization,NA
+2018-12-06 5:00,61,conscientiousness,Productiveness,NA
+2018-12-06 5:00,61,conscientiousness,Responsibility,NA
+2018-12-06 5:00,61,extraversion,Assertiveness,NA
+2018-12-06 5:00,61,extraversion,Energy Level,NA
+2018-12-06 5:00,61,extraversion,Sociability,NA
+2018-12-06 5:00,61,neuroticism,Anxiety,NA
+2018-12-06 5:00,61,neuroticism,Depression,NA
+2018-12-06 5:00,61,neuroticism,Emotional Volatility,NA
+2018-12-06 5:00,61,openness,Aesthetic Sensitivity,NA
+2018-12-06 5:00,61,openness,Creative Imagination,NA
+2018-12-06 5:00,61,openness,Intellectual Curiosity,NA
+2018-12-06 9:00,62,agreeableness,Compassion,NA
+2018-12-06 9:00,62,agreeableness,Respectfulness,NA
+2018-12-06 9:00,62,agreeableness,Trust,NA
+2018-12-06 9:00,62,conscientiousness,Organization,NA
+2018-12-06 9:00,62,conscientiousness,Productiveness,NA
+2018-12-06 9:00,62,conscientiousness,Responsibility,NA
+2018-12-06 9:00,62,extraversion,Assertiveness,NA
+2018-12-06 9:00,62,extraversion,Energy Level,NA
+2018-12-06 9:00,62,extraversion,Sociability,NA
+2018-12-06 9:00,62,neuroticism,Anxiety,NA
+2018-12-06 9:00,62,neuroticism,Depression,NA
+2018-12-06 9:00,62,neuroticism,Emotional Volatility,NA
+2018-12-06 9:00,62,openness,Aesthetic Sensitivity,NA
+2018-12-06 9:00,62,openness,Creative Imagination,NA
+2018-12-06 9:00,62,openness,Intellectual Curiosity,NA
+2018-12-06 13:00,63,agreeableness,Compassion,NA
+2018-12-06 13:00,63,agreeableness,Respectfulness,NA
+2018-12-06 13:00,63,agreeableness,Trust,NA
+2018-12-06 13:00,63,conscientiousness,Organization,NA
+2018-12-06 13:00,63,conscientiousness,Productiveness,NA
+2018-12-06 13:00,63,conscientiousness,Responsibility,NA
+2018-12-06 13:00,63,extraversion,Assertiveness,NA
+2018-12-06 13:00,63,extraversion,Energy Level,NA
+2018-12-06 13:00,63,extraversion,Sociability,NA
+2018-12-06 13:00,63,neuroticism,Anxiety,NA
+2018-12-06 13:00,63,neuroticism,Depression,NA
+2018-12-06 13:00,63,neuroticism,Emotional Volatility,NA
+2018-12-06 13:00,63,openness,Aesthetic Sensitivity,NA
+2018-12-06 13:00,63,openness,Creative Imagination,NA
+2018-12-06 13:00,63,openness,Intellectual Curiosity,NA
+2018-12-06 17:00,64,agreeableness,Compassion,NA
+2018-12-06 17:00,64,agreeableness,Respectfulness,NA
+2018-12-06 17:00,64,agreeableness,Trust,NA
+2018-12-06 17:00,64,conscientiousness,Organization,NA
+2018-12-06 17:00,64,conscientiousness,Productiveness,NA
+2018-12-06 17:00,64,conscientiousness,Responsibility,NA
+2018-12-06 17:00,64,extraversion,Assertiveness,NA
+2018-12-06 17:00,64,extraversion,Energy Level,NA
+2018-12-06 17:00,64,extraversion,Sociability,NA
+2018-12-06 17:00,64,neuroticism,Anxiety,NA
+2018-12-06 17:00,64,neuroticism,Depression,NA
+2018-12-06 17:00,64,neuroticism,Emotional Volatility,NA
+2018-12-06 17:00,64,openness,Aesthetic Sensitivity,NA
+2018-12-06 17:00,64,openness,Creative Imagination,NA
+2018-12-06 17:00,64,openness,Intellectual Curiosity,NA
+2018-12-06 21:00,65,agreeableness,Compassion,NA
+2018-12-06 21:00,65,agreeableness,Respectfulness,NA
+2018-12-06 21:00,65,agreeableness,Trust,NA
+2018-12-06 21:00,65,conscientiousness,Organization,NA
+2018-12-06 21:00,65,conscientiousness,Productiveness,NA
+2018-12-06 21:00,65,conscientiousness,Responsibility,NA
+2018-12-06 21:00,65,extraversion,Assertiveness,NA
+2018-12-06 21:00,65,extraversion,Energy Level,NA
+2018-12-06 21:00,65,extraversion,Sociability,NA
+2018-12-06 21:00,65,neuroticism,Anxiety,NA
+2018-12-06 21:00,65,neuroticism,Depression,NA
+2018-12-06 21:00,65,neuroticism,Emotional Volatility,NA
+2018-12-06 21:00,65,openness,Aesthetic Sensitivity,NA
+2018-12-06 21:00,65,openness,Creative Imagination,NA
+2018-12-06 21:00,65,openness,Intellectual Curiosity,NA
+2018-12-07 1:00,66,agreeableness,Compassion,NA
+2018-12-07 1:00,66,agreeableness,Respectfulness,NA
+2018-12-07 1:00,66,agreeableness,Trust,NA
+2018-12-07 1:00,66,conscientiousness,Organization,NA
+2018-12-07 1:00,66,conscientiousness,Productiveness,NA
+2018-12-07 1:00,66,conscientiousness,Responsibility,NA
+2018-12-07 1:00,66,extraversion,Assertiveness,NA
+2018-12-07 1:00,66,extraversion,Energy Level,NA
+2018-12-07 1:00,66,extraversion,Sociability,NA
+2018-12-07 1:00,66,neuroticism,Anxiety,NA
+2018-12-07 1:00,66,neuroticism,Depression,NA
+2018-12-07 1:00,66,neuroticism,Emotional Volatility,NA
+2018-12-07 1:00,66,openness,Aesthetic Sensitivity,NA
+2018-12-07 1:00,66,openness,Creative Imagination,NA
+2018-12-07 1:00,66,openness,Intellectual Curiosity,NA
+2018-12-07 5:00,67,agreeableness,Compassion,NA
+2018-12-07 5:00,67,agreeableness,Respectfulness,NA
+2018-12-07 5:00,67,agreeableness,Trust,NA
+2018-12-07 5:00,67,conscientiousness,Organization,NA
+2018-12-07 5:00,67,conscientiousness,Productiveness,NA
+2018-12-07 5:00,67,conscientiousness,Responsibility,NA
+2018-12-07 5:00,67,extraversion,Assertiveness,NA
+2018-12-07 5:00,67,extraversion,Energy Level,NA
+2018-12-07 5:00,67,extraversion,Sociability,NA
+2018-12-07 5:00,67,neuroticism,Anxiety,NA
+2018-12-07 5:00,67,neuroticism,Depression,NA
+2018-12-07 5:00,67,neuroticism,Emotional Volatility,NA
+2018-12-07 5:00,67,openness,Aesthetic Sensitivity,NA
+2018-12-07 5:00,67,openness,Creative Imagination,NA
+2018-12-07 5:00,67,openness,Intellectual Curiosity,NA
+2018-12-07 9:00,68,agreeableness,Compassion,NA
+2018-12-07 9:00,68,agreeableness,Respectfulness,NA
+2018-12-07 9:00,68,agreeableness,Trust,NA
+2018-12-07 9:00,68,conscientiousness,Organization,NA
+2018-12-07 9:00,68,conscientiousness,Productiveness,NA
+2018-12-07 9:00,68,conscientiousness,Responsibility,NA
+2018-12-07 9:00,68,extraversion,Assertiveness,NA
+2018-12-07 9:00,68,extraversion,Energy Level,NA
+2018-12-07 9:00,68,extraversion,Sociability,NA
+2018-12-07 9:00,68,neuroticism,Anxiety,NA
+2018-12-07 9:00,68,neuroticism,Depression,NA
+2018-12-07 9:00,68,neuroticism,Emotional Volatility,NA
+2018-12-07 9:00,68,openness,Aesthetic Sensitivity,NA
+2018-12-07 9:00,68,openness,Creative Imagination,NA
+2018-12-07 9:00,68,openness,Intellectual Curiosity,NA
+2018-12-07 13:00,69,agreeableness,Compassion,NA
+2018-12-07 13:00,69,agreeableness,Respectfulness,NA
+2018-12-07 13:00,69,agreeableness,Trust,NA
+2018-12-07 13:00,69,conscientiousness,Organization,NA
+2018-12-07 13:00,69,conscientiousness,Productiveness,NA
+2018-12-07 13:00,69,conscientiousness,Responsibility,NA
+2018-12-07 13:00,69,extraversion,Assertiveness,NA
+2018-12-07 13:00,69,extraversion,Energy Level,NA
+2018-12-07 13:00,69,extraversion,Sociability,NA
+2018-12-07 13:00,69,neuroticism,Anxiety,NA
+2018-12-07 13:00,69,neuroticism,Depression,NA
+2018-12-07 13:00,69,neuroticism,Emotional Volatility,NA
+2018-12-07 13:00,69,openness,Aesthetic Sensitivity,NA
+2018-12-07 13:00,69,openness,Creative Imagination,NA
+2018-12-07 13:00,69,openness,Intellectual Curiosity,NA
+2018-12-07 17:00,70,agreeableness,Compassion,NA
+2018-12-07 17:00,70,agreeableness,Respectfulness,NA
+2018-12-07 17:00,70,agreeableness,Trust,NA
+2018-12-07 17:00,70,conscientiousness,Organization,NA
+2018-12-07 17:00,70,conscientiousness,Productiveness,NA
+2018-12-07 17:00,70,conscientiousness,Responsibility,NA
+2018-12-07 17:00,70,extraversion,Assertiveness,NA
+2018-12-07 17:00,70,extraversion,Energy Level,NA
+2018-12-07 17:00,70,extraversion,Sociability,NA
+2018-12-07 17:00,70,neuroticism,Anxiety,NA
+2018-12-07 17:00,70,neuroticism,Depression,NA
+2018-12-07 17:00,70,neuroticism,Emotional Volatility,NA
+2018-12-07 17:00,70,openness,Aesthetic Sensitivity,NA
+2018-12-07 17:00,70,openness,Creative Imagination,NA
+2018-12-07 17:00,70,openness,Intellectual Curiosity,NA
+2018-12-07 21:00,71,agreeableness,Compassion,NA
+2018-12-07 21:00,71,agreeableness,Respectfulness,NA
+2018-12-07 21:00,71,agreeableness,Trust,NA
+2018-12-07 21:00,71,conscientiousness,Organization,NA
+2018-12-07 21:00,71,conscientiousness,Productiveness,NA
+2018-12-07 21:00,71,conscientiousness,Responsibility,NA
+2018-12-07 21:00,71,extraversion,Assertiveness,NA
+2018-12-07 21:00,71,extraversion,Energy Level,NA
+2018-12-07 21:00,71,extraversion,Sociability,NA
+2018-12-07 21:00,71,neuroticism,Anxiety,NA
+2018-12-07 21:00,71,neuroticism,Depression,NA
+2018-12-07 21:00,71,neuroticism,Emotional Volatility,NA
+2018-12-07 21:00,71,openness,Aesthetic Sensitivity,NA
+2018-12-07 21:00,71,openness,Creative Imagination,NA
+2018-12-07 21:00,71,openness,Intellectual Curiosity,NA
+2018-12-08 1:00,72,agreeableness,Compassion,NA
+2018-12-08 1:00,72,agreeableness,Respectfulness,NA
+2018-12-08 1:00,72,agreeableness,Trust,NA
+2018-12-08 1:00,72,conscientiousness,Organization,NA
+2018-12-08 1:00,72,conscientiousness,Productiveness,NA
+2018-12-08 1:00,72,conscientiousness,Responsibility,NA
+2018-12-08 1:00,72,extraversion,Assertiveness,NA
+2018-12-08 1:00,72,extraversion,Energy Level,NA
+2018-12-08 1:00,72,extraversion,Sociability,NA
+2018-12-08 1:00,72,neuroticism,Anxiety,NA
+2018-12-08 1:00,72,neuroticism,Depression,NA
+2018-12-08 1:00,72,neuroticism,Emotional Volatility,NA
+2018-12-08 1:00,72,openness,Aesthetic Sensitivity,NA
+2018-12-08 1:00,72,openness,Creative Imagination,NA
+2018-12-08 1:00,72,openness,Intellectual Curiosity,NA
+2018-12-08 5:00,73,agreeableness,Compassion,NA
+2018-12-08 5:00,73,agreeableness,Respectfulness,NA
+2018-12-08 5:00,73,agreeableness,Trust,NA
+2018-12-08 5:00,73,conscientiousness,Organization,NA
+2018-12-08 5:00,73,conscientiousness,Productiveness,NA
+2018-12-08 5:00,73,conscientiousness,Responsibility,NA
+2018-12-08 5:00,73,extraversion,Assertiveness,NA
+2018-12-08 5:00,73,extraversion,Energy Level,NA
+2018-12-08 5:00,73,extraversion,Sociability,NA
+2018-12-08 5:00,73,neuroticism,Anxiety,NA
+2018-12-08 5:00,73,neuroticism,Depression,NA
+2018-12-08 5:00,73,neuroticism,Emotional Volatility,NA
+2018-12-08 5:00,73,openness,Aesthetic Sensitivity,NA
+2018-12-08 5:00,73,openness,Creative Imagination,NA
+2018-12-08 5:00,73,openness,Intellectual Curiosity,NA
+2018-12-08 9:00,74,agreeableness,Compassion,NA
+2018-12-08 9:00,74,agreeableness,Respectfulness,NA
+2018-12-08 9:00,74,agreeableness,Trust,NA
+2018-12-08 9:00,74,conscientiousness,Organization,NA
+2018-12-08 9:00,74,conscientiousness,Productiveness,NA
+2018-12-08 9:00,74,conscientiousness,Responsibility,NA
+2018-12-08 9:00,74,extraversion,Assertiveness,NA
+2018-12-08 9:00,74,extraversion,Energy Level,NA
+2018-12-08 9:00,74,extraversion,Sociability,NA
+2018-12-08 9:00,74,neuroticism,Anxiety,NA
+2018-12-08 9:00,74,neuroticism,Depression,NA
+2018-12-08 9:00,74,neuroticism,Emotional Volatility,NA
+2018-12-08 9:00,74,openness,Aesthetic Sensitivity,NA
+2018-12-08 9:00,74,openness,Creative Imagination,NA
+2018-12-08 9:00,74,openness,Intellectual Curiosity,NA
+2018-12-08 13:00,75,agreeableness,Compassion,NA
+2018-12-08 13:00,75,agreeableness,Respectfulness,NA
+2018-12-08 13:00,75,agreeableness,Trust,NA
+2018-12-08 13:00,75,conscientiousness,Organization,NA
+2018-12-08 13:00,75,conscientiousness,Productiveness,NA
+2018-12-08 13:00,75,conscientiousness,Responsibility,NA
+2018-12-08 13:00,75,extraversion,Assertiveness,NA
+2018-12-08 13:00,75,extraversion,Energy Level,NA
+2018-12-08 13:00,75,extraversion,Sociability,NA
+2018-12-08 13:00,75,neuroticism,Anxiety,NA
+2018-12-08 13:00,75,neuroticism,Depression,NA
+2018-12-08 13:00,75,neuroticism,Emotional Volatility,NA
+2018-12-08 13:00,75,openness,Aesthetic Sensitivity,NA
+2018-12-08 13:00,75,openness,Creative Imagination,NA
+2018-12-08 13:00,75,openness,Intellectual Curiosity,NA
+2018-12-08 17:00,76,agreeableness,Compassion,NA
+2018-12-08 17:00,76,agreeableness,Respectfulness,NA
+2018-12-08 17:00,76,agreeableness,Trust,NA
+2018-12-08 17:00,76,conscientiousness,Organization,NA
+2018-12-08 17:00,76,conscientiousness,Productiveness,NA
+2018-12-08 17:00,76,conscientiousness,Responsibility,NA
+2018-12-08 17:00,76,extraversion,Assertiveness,NA
+2018-12-08 17:00,76,extraversion,Energy Level,NA
+2018-12-08 17:00,76,extraversion,Sociability,NA
+2018-12-08 17:00,76,neuroticism,Anxiety,NA
+2018-12-08 17:00,76,neuroticism,Depression,NA
+2018-12-08 17:00,76,neuroticism,Emotional Volatility,NA
+2018-12-08 17:00,76,openness,Aesthetic Sensitivity,NA
+2018-12-08 17:00,76,openness,Creative Imagination,NA
+2018-12-08 17:00,76,openness,Intellectual Curiosity,NA
+2018-12-08 21:00,77,agreeableness,Compassion,NA
+2018-12-08 21:00,77,agreeableness,Respectfulness,NA
+2018-12-08 21:00,77,agreeableness,Trust,NA
+2018-12-08 21:00,77,conscientiousness,Organization,NA
+2018-12-08 21:00,77,conscientiousness,Productiveness,NA
+2018-12-08 21:00,77,conscientiousness,Responsibility,NA
+2018-12-08 21:00,77,extraversion,Assertiveness,NA
+2018-12-08 21:00,77,extraversion,Energy Level,NA
+2018-12-08 21:00,77,extraversion,Sociability,NA
+2018-12-08 21:00,77,neuroticism,Anxiety,NA
+2018-12-08 21:00,77,neuroticism,Depression,NA
+2018-12-08 21:00,77,neuroticism,Emotional Volatility,NA
+2018-12-08 21:00,77,openness,Aesthetic Sensitivity,NA
+2018-12-08 21:00,77,openness,Creative Imagination,NA
+2018-12-08 21:00,77,openness,Intellectual Curiosity,NA
+2018-12-09 1:00,78,agreeableness,Compassion,NA
+2018-12-09 1:00,78,agreeableness,Respectfulness,NA
+2018-12-09 1:00,78,agreeableness,Trust,NA
+2018-12-09 1:00,78,conscientiousness,Organization,NA
+2018-12-09 1:00,78,conscientiousness,Productiveness,NA
+2018-12-09 1:00,78,conscientiousness,Responsibility,NA
+2018-12-09 1:00,78,extraversion,Assertiveness,NA
+2018-12-09 1:00,78,extraversion,Energy Level,NA
+2018-12-09 1:00,78,extraversion,Sociability,NA
+2018-12-09 1:00,78,neuroticism,Anxiety,NA
+2018-12-09 1:00,78,neuroticism,Depression,NA
+2018-12-09 1:00,78,neuroticism,Emotional Volatility,NA
+2018-12-09 1:00,78,openness,Aesthetic Sensitivity,NA
+2018-12-09 1:00,78,openness,Creative Imagination,NA
+2018-12-09 1:00,78,openness,Intellectual Curiosity,NA
+2018-12-09 5:00,79,agreeableness,Compassion,NA
+2018-12-09 5:00,79,agreeableness,Respectfulness,NA
+2018-12-09 5:00,79,agreeableness,Trust,NA
+2018-12-09 5:00,79,conscientiousness,Organization,NA
+2018-12-09 5:00,79,conscientiousness,Productiveness,NA
+2018-12-09 5:00,79,conscientiousness,Responsibility,NA
+2018-12-09 5:00,79,extraversion,Assertiveness,NA
+2018-12-09 5:00,79,extraversion,Energy Level,NA
+2018-12-09 5:00,79,extraversion,Sociability,NA
+2018-12-09 5:00,79,neuroticism,Anxiety,NA
+2018-12-09 5:00,79,neuroticism,Depression,NA
+2018-12-09 5:00,79,neuroticism,Emotional Volatility,NA
+2018-12-09 5:00,79,openness,Aesthetic Sensitivity,NA
+2018-12-09 5:00,79,openness,Creative Imagination,NA
+2018-12-09 5:00,79,openness,Intellectual Curiosity,NA
+2018-12-09 9:00,80,agreeableness,Compassion,NA
+2018-12-09 9:00,80,agreeableness,Respectfulness,NA
+2018-12-09 9:00,80,agreeableness,Trust,NA
+2018-12-09 9:00,80,conscientiousness,Organization,NA
+2018-12-09 9:00,80,conscientiousness,Productiveness,NA
+2018-12-09 9:00,80,conscientiousness,Responsibility,NA
+2018-12-09 9:00,80,extraversion,Assertiveness,NA
+2018-12-09 9:00,80,extraversion,Energy Level,NA
+2018-12-09 9:00,80,extraversion,Sociability,NA
+2018-12-09 9:00,80,neuroticism,Anxiety,NA
+2018-12-09 9:00,80,neuroticism,Depression,NA
+2018-12-09 9:00,80,neuroticism,Emotional Volatility,NA
+2018-12-09 9:00,80,openness,Aesthetic Sensitivity,NA
+2018-12-09 9:00,80,openness,Creative Imagination,NA
+2018-12-09 9:00,80,openness,Intellectual Curiosity,NA
+2018-12-09 13:00,81,agreeableness,Compassion,NA
+2018-12-09 13:00,81,agreeableness,Respectfulness,NA
+2018-12-09 13:00,81,agreeableness,Trust,NA
+2018-12-09 13:00,81,conscientiousness,Organization,NA
+2018-12-09 13:00,81,conscientiousness,Productiveness,NA
+2018-12-09 13:00,81,conscientiousness,Responsibility,NA
+2018-12-09 13:00,81,extraversion,Assertiveness,NA
+2018-12-09 13:00,81,extraversion,Energy Level,NA
+2018-12-09 13:00,81,extraversion,Sociability,NA
+2018-12-09 13:00,81,neuroticism,Anxiety,NA
+2018-12-09 13:00,81,neuroticism,Depression,NA
+2018-12-09 13:00,81,neuroticism,Emotional Volatility,NA
+2018-12-09 13:00,81,openness,Aesthetic Sensitivity,NA
+2018-12-09 13:00,81,openness,Creative Imagination,NA
+2018-12-09 13:00,81,openness,Intellectual Curiosity,NA
+2018-12-09 17:00,82,agreeableness,Compassion,NA
+2018-12-09 17:00,82,agreeableness,Respectfulness,NA
+2018-12-09 17:00,82,agreeableness,Trust,NA
+2018-12-09 17:00,82,conscientiousness,Organization,NA
+2018-12-09 17:00,82,conscientiousness,Productiveness,NA
+2018-12-09 17:00,82,conscientiousness,Responsibility,NA
+2018-12-09 17:00,82,extraversion,Assertiveness,NA
+2018-12-09 17:00,82,extraversion,Energy Level,NA
+2018-12-09 17:00,82,extraversion,Sociability,NA
+2018-12-09 17:00,82,neuroticism,Anxiety,NA
+2018-12-09 17:00,82,neuroticism,Depression,NA
+2018-12-09 17:00,82,neuroticism,Emotional Volatility,NA
+2018-12-09 17:00,82,openness,Aesthetic Sensitivity,NA
+2018-12-09 17:00,82,openness,Creative Imagination,NA
+2018-12-09 17:00,82,openness,Intellectual Curiosity,NA
+2018-12-09 21:00,83,agreeableness,Compassion,NA
+2018-12-09 21:00,83,agreeableness,Respectfulness,NA
+2018-12-09 21:00,83,agreeableness,Trust,NA
+2018-12-09 21:00,83,conscientiousness,Organization,NA
+2018-12-09 21:00,83,conscientiousness,Productiveness,NA
+2018-12-09 21:00,83,conscientiousness,Responsibility,NA
+2018-12-09 21:00,83,extraversion,Assertiveness,NA
+2018-12-09 21:00,83,extraversion,Energy Level,NA
+2018-12-09 21:00,83,extraversion,Sociability,NA
+2018-12-09 21:00,83,neuroticism,Anxiety,NA
+2018-12-09 21:00,83,neuroticism,Depression,NA
+2018-12-09 21:00,83,neuroticism,Emotional Volatility,NA
+2018-12-09 21:00,83,openness,Aesthetic Sensitivity,NA
+2018-12-09 21:00,83,openness,Creative Imagination,NA
+2018-12-09 21:00,83,openness,Intellectual Curiosity,NA
+2018-12-10 1:00,84,agreeableness,Compassion,NA
+2018-12-10 1:00,84,agreeableness,Respectfulness,NA
+2018-12-10 1:00,84,agreeableness,Trust,NA
+2018-12-10 1:00,84,conscientiousness,Organization,NA
+2018-12-10 1:00,84,conscientiousness,Productiveness,NA
+2018-12-10 1:00,84,conscientiousness,Responsibility,NA
+2018-12-10 1:00,84,extraversion,Assertiveness,NA
+2018-12-10 1:00,84,extraversion,Energy Level,NA
+2018-12-10 1:00,84,extraversion,Sociability,NA
+2018-12-10 1:00,84,neuroticism,Anxiety,NA
+2018-12-10 1:00,84,neuroticism,Depression,NA
+2018-12-10 1:00,84,neuroticism,Emotional Volatility,NA
+2018-12-10 1:00,84,openness,Aesthetic Sensitivity,NA
+2018-12-10 1:00,84,openness,Creative Imagination,NA
+2018-12-10 1:00,84,openness,Intellectual Curiosity,NA
+2018-12-10 5:00,85,agreeableness,Compassion,NA
+2018-12-10 5:00,85,agreeableness,Respectfulness,NA
+2018-12-10 5:00,85,agreeableness,Trust,NA
+2018-12-10 5:00,85,conscientiousness,Organization,NA
+2018-12-10 5:00,85,conscientiousness,Productiveness,NA
+2018-12-10 5:00,85,conscientiousness,Responsibility,NA
+2018-12-10 5:00,85,extraversion,Assertiveness,NA
+2018-12-10 5:00,85,extraversion,Energy Level,NA
+2018-12-10 5:00,85,extraversion,Sociability,NA
+2018-12-10 5:00,85,neuroticism,Anxiety,NA
+2018-12-10 5:00,85,neuroticism,Depression,NA
+2018-12-10 5:00,85,neuroticism,Emotional Volatility,NA
+2018-12-10 5:00,85,openness,Aesthetic Sensitivity,NA
+2018-12-10 5:00,85,openness,Creative Imagination,NA
+2018-12-10 5:00,85,openness,Intellectual Curiosity,NA
+2018-12-10 9:00,86,agreeableness,Compassion,NA
+2018-12-10 9:00,86,agreeableness,Respectfulness,NA
+2018-12-10 9:00,86,agreeableness,Trust,NA
+2018-12-10 9:00,86,conscientiousness,Organization,NA
+2018-12-10 9:00,86,conscientiousness,Productiveness,NA
+2018-12-10 9:00,86,conscientiousness,Responsibility,NA
+2018-12-10 9:00,86,extraversion,Assertiveness,NA
+2018-12-10 9:00,86,extraversion,Energy Level,NA
+2018-12-10 9:00,86,extraversion,Sociability,NA
+2018-12-10 9:00,86,neuroticism,Anxiety,NA
+2018-12-10 9:00,86,neuroticism,Depression,NA
+2018-12-10 9:00,86,neuroticism,Emotional Volatility,NA
+2018-12-10 9:00,86,openness,Aesthetic Sensitivity,NA
+2018-12-10 9:00,86,openness,Creative Imagination,NA
+2018-12-10 9:00,86,openness,Intellectual Curiosity,NA
+2018-12-10 13:00,87,agreeableness,Compassion,NA
+2018-12-10 13:00,87,agreeableness,Respectfulness,NA
+2018-12-10 13:00,87,agreeableness,Trust,NA
+2018-12-10 13:00,87,conscientiousness,Organization,NA
+2018-12-10 13:00,87,conscientiousness,Productiveness,NA
+2018-12-10 13:00,87,conscientiousness,Responsibility,NA
+2018-12-10 13:00,87,extraversion,Assertiveness,NA
+2018-12-10 13:00,87,extraversion,Energy Level,NA
+2018-12-10 13:00,87,extraversion,Sociability,NA
+2018-12-10 13:00,87,neuroticism,Anxiety,NA
+2018-12-10 13:00,87,neuroticism,Depression,NA
+2018-12-10 13:00,87,neuroticism,Emotional Volatility,NA
+2018-12-10 13:00,87,openness,Aesthetic Sensitivity,NA
+2018-12-10 13:00,87,openness,Creative Imagination,NA
+2018-12-10 13:00,87,openness,Intellectual Curiosity,NA
+2018-12-10 17:00,88,agreeableness,Compassion,NA
+2018-12-10 17:00,88,agreeableness,Respectfulness,NA
+2018-12-10 17:00,88,agreeableness,Trust,NA
+2018-12-10 17:00,88,conscientiousness,Organization,NA
+2018-12-10 17:00,88,conscientiousness,Productiveness,NA
+2018-12-10 17:00,88,conscientiousness,Responsibility,NA
+2018-12-10 17:00,88,extraversion,Assertiveness,NA
+2018-12-10 17:00,88,extraversion,Energy Level,NA
+2018-12-10 17:00,88,extraversion,Sociability,NA
+2018-12-10 17:00,88,neuroticism,Anxiety,NA
+2018-12-10 17:00,88,neuroticism,Depression,NA
+2018-12-10 17:00,88,neuroticism,Emotional Volatility,NA
+2018-12-10 17:00,88,openness,Aesthetic Sensitivity,NA
+2018-12-10 17:00,88,openness,Creative Imagination,NA
+2018-12-10 17:00,88,openness,Intellectual Curiosity,NA
+2018-12-10 21:00,89,agreeableness,Compassion,NA
+2018-12-10 21:00,89,agreeableness,Respectfulness,NA
+2018-12-10 21:00,89,agreeableness,Trust,NA
+2018-12-10 21:00,89,conscientiousness,Organization,NA
+2018-12-10 21:00,89,conscientiousness,Productiveness,NA
+2018-12-10 21:00,89,conscientiousness,Responsibility,NA
+2018-12-10 21:00,89,extraversion,Assertiveness,NA
+2018-12-10 21:00,89,extraversion,Energy Level,NA
+2018-12-10 21:00,89,extraversion,Sociability,NA
+2018-12-10 21:00,89,neuroticism,Anxiety,NA
+2018-12-10 21:00,89,neuroticism,Depression,NA
+2018-12-10 21:00,89,neuroticism,Emotional Volatility,NA
+2018-12-10 21:00,89,openness,Aesthetic Sensitivity,NA
+2018-12-10 21:00,89,openness,Creative Imagination,NA
+2018-12-10 21:00,89,openness,Intellectual Curiosity,NA
+2018-12-11 1:00,90,agreeableness,Compassion,NA
+2018-12-11 1:00,90,agreeableness,Respectfulness,NA
+2018-12-11 1:00,90,agreeableness,Trust,NA
+2018-12-11 1:00,90,conscientiousness,Organization,NA
+2018-12-11 1:00,90,conscientiousness,Productiveness,NA
+2018-12-11 1:00,90,conscientiousness,Responsibility,NA
+2018-12-11 1:00,90,extraversion,Assertiveness,NA
+2018-12-11 1:00,90,extraversion,Energy Level,NA
+2018-12-11 1:00,90,extraversion,Sociability,NA
+2018-12-11 1:00,90,neuroticism,Anxiety,NA
+2018-12-11 1:00,90,neuroticism,Depression,NA
+2018-12-11 1:00,90,neuroticism,Emotional Volatility,NA
+2018-12-11 1:00,90,openness,Aesthetic Sensitivity,NA
+2018-12-11 1:00,90,openness,Creative Imagination,NA
+2018-12-11 1:00,90,openness,Intellectual Curiosity,NA
+2018-12-11 5:00,91,agreeableness,Compassion,NA
+2018-12-11 5:00,91,agreeableness,Respectfulness,NA
+2018-12-11 5:00,91,agreeableness,Trust,NA
+2018-12-11 5:00,91,conscientiousness,Organization,NA
+2018-12-11 5:00,91,conscientiousness,Productiveness,NA
+2018-12-11 5:00,91,conscientiousness,Responsibility,NA
+2018-12-11 5:00,91,extraversion,Assertiveness,NA
+2018-12-11 5:00,91,extraversion,Energy Level,NA
+2018-12-11 5:00,91,extraversion,Sociability,NA
+2018-12-11 5:00,91,neuroticism,Anxiety,NA
+2018-12-11 5:00,91,neuroticism,Depression,NA
+2018-12-11 5:00,91,neuroticism,Emotional Volatility,NA
+2018-12-11 5:00,91,openness,Aesthetic Sensitivity,NA
+2018-12-11 5:00,91,openness,Creative Imagination,NA
+2018-12-11 5:00,91,openness,Intellectual Curiosity,NA
